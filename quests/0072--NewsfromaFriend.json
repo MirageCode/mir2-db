@@ -1,0 +1,15 @@
+{
+  "Index" : 72,
+  "Name" : "News from a Friend",
+  "Group" : "InsectCave",
+  "FileName" : "72",
+  "RequiredMinLevel" : 19,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 71,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Helen in WoomyonWoods",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

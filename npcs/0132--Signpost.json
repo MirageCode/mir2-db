@@ -1,0 +1,25 @@
+{
+  "Index" : 132,
+  "FileName" : "SerpentValley/Village/Signpost-2",
+  "Name" : "Signpost",
+  "MapIndex" : 144,
+  "Location" : {
+    "X" : 510,
+    "Y" : 479
+  },
+  "Rate" : 100,
+  "Image" : 45,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

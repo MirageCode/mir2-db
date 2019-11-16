@@ -1,0 +1,15 @@
+{
+  "Index" : 70,
+  "Name" : "Poisoned Friend",
+  "Group" : "InsectCave",
+  "FileName" : "70",
+  "RequiredMinLevel" : 19,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 69,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Find and return Soho Backpack",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

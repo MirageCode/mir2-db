@@ -1,0 +1,143 @@
+{
+  "Index" : 106,
+  "FileName" : "SG003",
+  "Title" : "TrollMine_3F",
+  "MiniMap" : 314,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Night",
+  "MapDarkLight" : 0,
+  "MineIndex" : 1,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 105,
+      "Source" : {
+        "X" : 287,
+        "Y" : 85
+      },
+      "Destination" : {
+        "X" : 17,
+        "Y" : 147
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 454,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 30,
+      "Spread" : 185,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1326,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 455,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 30,
+      "Spread" : 185,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1327,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 459,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 70,
+      "Spread" : 180,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1328,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 460,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 70,
+      "Spread" : 180,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1329,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 461,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 40,
+      "Spread" : 170,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1330,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 462,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 40,
+      "Spread" : 170,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1331,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

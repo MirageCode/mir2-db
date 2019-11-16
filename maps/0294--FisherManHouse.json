@@ -1,0 +1,53 @@
+{
+  "Index" : 294,
+  "FileName" : "B355",
+  "Title" : "FisherManHouse",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : true,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 289,
+      "Source" : {
+        "X" : 9,
+        "Y" : 17
+      },
+      "Destination" : {
+        "X" : 152,
+        "Y" : 295
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

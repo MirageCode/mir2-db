@@ -1,0 +1,15 @@
+{
+  "Index" : 96,
+  "Name" : "Cooking Beef Rib Stew",
+  "Group" : "BichonProvince",
+  "FileName" : "96",
+  "RequiredMinLevel" : 23,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver BeefRib to Butcher Han in WoomyonWoods",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

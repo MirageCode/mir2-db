@@ -1,0 +1,25 @@
+{
+  "Index" : 123,
+  "FileName" : "WoomyonWoods/SeokchoValley/Grocery",
+  "Name" : "Merchant_Cook",
+  "MapIndex" : 103,
+  "Location" : {
+    "X" : 144,
+    "Y" : 178
+  },
+  "Rate" : 100,
+  "Image" : 22,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

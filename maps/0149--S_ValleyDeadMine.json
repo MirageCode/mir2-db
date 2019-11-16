@@ -1,0 +1,186 @@
+{
+  "Index" : 149,
+  "FileName" : "D421",
+  "Title" : "S_ValleyDeadMine",
+  "MiniMap" : 20,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Night",
+  "MapDarkLight" : 0,
+  "MineIndex" : 1,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 144,
+      "Source" : {
+        "X" : 30,
+        "Y" : 375
+      },
+      "Destination" : {
+        "X" : 564,
+        "Y" : 171
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 150,
+      "Source" : {
+        "X" : 361,
+        "Y" : 19
+      },
+      "Destination" : {
+        "X" : 23,
+        "Y" : 41
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 110,
+      "Location" : {
+        "X" : 200,
+        "Y" : 200
+      },
+      "Count" : 100,
+      "Spread" : 180,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1930,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 112,
+      "Location" : {
+        "X" : 200,
+        "Y" : 200
+      },
+      "Count" : 100,
+      "Spread" : 180,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1931,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 114,
+      "Location" : {
+        "X" : 200,
+        "Y" : 200
+      },
+      "Count" : 100,
+      "Spread" : 180,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1932,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 118,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 120,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1933,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 111,
+      "Location" : {
+        "X" : 200,
+        "Y" : 200
+      },
+      "Count" : 1,
+      "Spread" : 180,
+      "Delay" : 100,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1934,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 113,
+      "Location" : {
+        "X" : 200,
+        "Y" : 200
+      },
+      "Count" : 1,
+      "Spread" : 180,
+      "Delay" : 100,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1935,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 115,
+      "Location" : {
+        "X" : 200,
+        "Y" : 200
+      },
+      "Count" : 1,
+      "Spread" : 180,
+      "Delay" : 100,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1936,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 118,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 120,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1937,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

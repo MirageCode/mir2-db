@@ -1,0 +1,25 @@
+{
+  "Index" : 161,
+  "FileName" : "MongchonProvince/MudWall/11Mcft",
+  "Name" : "CraftsLady_Louise",
+  "MapIndex" : 172,
+  "Location" : {
+    "X" : 299,
+    "Y" : 371
+  },
+  "Rate" : 100,
+  "Image" : 7,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

@@ -1,0 +1,25 @@
+{
+  "Index" : 221,
+  "FileName" : "PastBichon/General",
+  "Name" : "General_Sir.Kevin",
+  "MapIndex" : 317,
+  "Location" : {
+    "X" : 8,
+    "Y" : 9
+  },
+  "Rate" : 100,
+  "Image" : 31,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

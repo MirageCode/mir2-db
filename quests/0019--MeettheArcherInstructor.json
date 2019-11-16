@@ -1,0 +1,15 @@
+{
+  "Index" : 19,
+  "Name" : "Meet the Archer Instructor",
+  "Group" : "BichonProvince",
+  "FileName" : "19",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 16,
+  "Type" : 0,
+  "GotoMessage" : "Speak with the Captain at 320:477",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

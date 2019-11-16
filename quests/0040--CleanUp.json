@@ -1,0 +1,15 @@
+{
+  "Index" : 40,
+  "Name" : "Clean Up",
+  "Group" : "WoomyonWoods",
+  "FileName" : "40",
+  "RequiredMinLevel" : 12,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 39,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return back to MasterShok at 312:73",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

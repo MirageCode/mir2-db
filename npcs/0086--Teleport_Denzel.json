@@ -1,0 +1,25 @@
+{
+  "Index" : 86,
+  "FileName" : "WoomyonWoods/Castle-GI/CastleGi_Transporter",
+  "Name" : "Teleport_Denzel",
+  "MapIndex" : 77,
+  "Location" : {
+    "X" : 265,
+    "Y" : 256
+  },
+  "Rate" : 100,
+  "Image" : 15,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

@@ -1,0 +1,25 @@
+{
+  "Index" : 87,
+  "FileName" : "WoomyonWoods/Castle-GI/11Gicft",
+  "Name" : "CraftsLady_Jane",
+  "MapIndex" : 77,
+  "Location" : {
+    "X" : 224,
+    "Y" : 205
+  },
+  "Rate" : 100,
+  "Image" : 7,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

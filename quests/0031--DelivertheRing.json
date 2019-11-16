@@ -1,0 +1,15 @@
+{
+  "Index" : 31,
+  "Name" : "Deliver the Ring",
+  "Group" : "SerpentValley",
+  "FileName" : "31",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 30,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver the JadeRing to Melissa in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

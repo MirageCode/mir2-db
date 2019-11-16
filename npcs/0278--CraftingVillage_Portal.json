@@ -1,0 +1,25 @@
+{
+  "Index" : 278,
+  "FileName" : "CraftingPortal/Serpent",
+  "Name" : "CraftingVillage_Portal",
+  "MapIndex" : 144,
+  "Location" : {
+    "X" : 493,
+    "Y" : 488
+  },
+  "Rate" : 100,
+  "Image" : 0,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 544,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

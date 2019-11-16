@@ -1,0 +1,15 @@
+{
+  "Index" : 146,
+  "Name" : "Holy Sword Quest",
+  "Group" : "HolySword Quest",
+  "FileName" : "146",
+  "RequiredMinLevel" : 35,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 145,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

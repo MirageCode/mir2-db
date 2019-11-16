@@ -1,0 +1,22 @@
+{
+  "Name" : "Poisoning",
+  "Spell" : "Poisoning",
+  "BaseCost" : 2,
+  "LevelCost" : 1,
+  "Icon" : 5,
+  "Level1" : 14,
+  "Level2" : 17,
+  "Level3" : 20,
+  "Need1" : 700,
+  "Need2" : 1300,
+  "Need3" : 2700,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

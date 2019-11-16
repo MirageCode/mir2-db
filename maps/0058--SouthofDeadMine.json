@@ -1,0 +1,201 @@
+{
+  "Index" : 58,
+  "FileName" : "D406",
+  "Title" : "SouthofDeadMine",
+  "MiniMap" : 13,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Night",
+  "MapDarkLight" : 0,
+  "MineIndex" : 1,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : false,
+  "NeedBridle" : true,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 57,
+      "Source" : {
+        "X" : 186,
+        "Y" : 119
+      },
+      "Destination" : {
+        "X" : 9,
+        "Y" : 85
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 48,
+      "Source" : {
+        "X" : 23,
+        "Y" : 15
+      },
+      "Destination" : {
+        "X" : 94,
+        "Y" : 48
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 114,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 75,
+      "Spread" : 100,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 528,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 108,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 30,
+      "Spread" : 100,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 529,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 116,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 45,
+      "Spread" : 100,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 530,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 110,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 30,
+      "Spread" : 100,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 531,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 118,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 120,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 532,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 115,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 100,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 533,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 109,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 100,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 534,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 117,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 100,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 535,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 111,
+      "Location" : {
+        "X" : 100,
+        "Y" : 100
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 100,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 536,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

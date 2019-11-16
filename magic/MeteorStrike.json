@@ -1,0 +1,22 @@
+{
+  "Name" : "MeteorStrike",
+  "Spell" : "MeteorStrike",
+  "BaseCost" : 115,
+  "LevelCost" : 17,
+  "Icon" : 52,
+  "Level1" : 49,
+  "Level2" : 52,
+  "Level3" : 55,
+  "Need1" : 15000,
+  "Need2" : 20000,
+  "Need3" : 25000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 20,
+  "PowerBonus" : 15,
+  "MPowerBase" : 40,
+  "MPowerBonus" : 10,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 79,
+  "Name" : "Darkness from the Mines",
+  "Group" : "SerpentValley",
+  "FileName" : "79",
+  "RequiredMinLevel" : 20,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Search for the Darkness within the SerpentDeadMines",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

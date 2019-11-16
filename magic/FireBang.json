@@ -1,0 +1,22 @@
+{
+  "Name" : "FireBang",
+  "Spell" : "FireBang",
+  "BaseCost" : 14,
+  "LevelCost" : 4,
+  "Icon" : 22,
+  "Level1" : 22,
+  "Level2" : 25,
+  "Level3" : 28,
+  "Need1" : 3000,
+  "Need2" : 5000,
+  "Need3" : 10000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 8,
+  "PowerBonus" : 0,
+  "MPowerBase" : 8,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

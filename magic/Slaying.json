@@ -1,0 +1,22 @@
+{
+  "Name" : "Slaying",
+  "Spell" : "Slaying",
+  "BaseCost" : 0,
+  "LevelCost" : 0,
+  "Icon" : 6,
+  "Level1" : 15,
+  "Level2" : 17,
+  "Level3" : 20,
+  "Need1" : 500,
+  "Need2" : 1100,
+  "Need3" : 1800,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

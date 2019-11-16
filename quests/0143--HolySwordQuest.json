@@ -1,0 +1,15 @@
+{
+  "Index" : 143,
+  "Name" : "Holy Sword Quest",
+  "Group" : "HolySword Quest",
+  "FileName" : "143",
+  "RequiredMinLevel" : 35,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Apprentice",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

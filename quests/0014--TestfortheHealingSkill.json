@@ -1,0 +1,15 @@
+{
+  "Index" : 14,
+  "Name" : "Test for the Healing Skill",
+  "Group" : "BichonProvince",
+  "FileName" : "14",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 13,
+  "RequiredClass" : 4,
+  "Type" : 0,
+  "GotoMessage" : "Return to the HighPriest at 429:475",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

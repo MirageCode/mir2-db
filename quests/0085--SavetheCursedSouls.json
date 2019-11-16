@@ -1,0 +1,15 @@
+{
+  "Index" : 85,
+  "Name" : "Save the Cursed Souls",
+  "Group" : "TaoVillage",
+  "FileName" : "85",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MasterMK in TaoVillage",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

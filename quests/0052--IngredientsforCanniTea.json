@@ -1,0 +1,15 @@
+{
+  "Index" : 52,
+  "Name" : "Ingredients for CanniTea",
+  "Group" : "BichonProvince",
+  "FileName" : "52",
+  "RequiredMinLevel" : 16,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 51,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the CraftsLady in BichonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

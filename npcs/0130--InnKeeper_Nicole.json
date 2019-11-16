@@ -1,0 +1,25 @@
+{
+  "Index" : 130,
+  "FileName" : "SerpentValley/Village/Warehouse-2",
+  "Name" : "InnKeeper_Nicole",
+  "MapIndex" : 144,
+  "Location" : {
+    "X" : 517,
+    "Y" : 466
+  },
+  "Rate" : 100,
+  "Image" : 5,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

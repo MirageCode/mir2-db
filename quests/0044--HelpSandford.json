@@ -1,0 +1,15 @@
+{
+  "Index" : 44,
+  "Name" : "Help Sandford",
+  "Group" : "SerpentValley",
+  "FileName" : "44",
+  "RequiredMinLevel" : 13,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 43,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to PrajnaIsland Speak to Sandford. Boat leaves fom BorderVillage",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

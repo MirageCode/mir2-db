@@ -1,0 +1,22 @@
+{
+  "Name" : "DarkBody",
+  "Spell" : "DarkBody",
+  "BaseCost" : 40,
+  "LevelCost" : 7,
+  "Icon" : 70,
+  "Level1" : 46,
+  "Level2" : 49,
+  "Level3" : 52,
+  "Need1" : 6000,
+  "Need2" : 10000,
+  "Need3" : 14000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 20,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

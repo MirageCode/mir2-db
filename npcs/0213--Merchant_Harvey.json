@@ -1,0 +1,25 @@
+{
+  "Index" : 213,
+  "FileName" : "PastBichon/8Pbac",
+  "Name" : "Merchant_Harvey",
+  "MapIndex" : 316,
+  "Location" : {
+    "X" : 116,
+    "Y" : 128
+  },
+  "Rate" : 100,
+  "Image" : 30,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

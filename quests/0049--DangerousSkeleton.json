@@ -1,0 +1,15 @@
+{
+  "Index" : 49,
+  "Name" : "Dangerous Skeleton",
+  "Group" : "BichonProvince",
+  "FileName" : "49",
+  "RequiredMinLevel" : 14,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Jason in BichonWall 296:220",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

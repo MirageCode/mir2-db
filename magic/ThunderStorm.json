@@ -1,0 +1,22 @@
+{
+  "Name" : "ThunderStorm",
+  "Spell" : "ThunderStorm",
+  "BaseCost" : 29,
+  "LevelCost" : 9,
+  "Icon" : 23,
+  "Level1" : 30,
+  "Level2" : 32,
+  "Level3" : 34,
+  "Need1" : 4000,
+  "Need2" : 8000,
+  "Need3" : 12000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 10,
+  "PowerBonus" : 20,
+  "MPowerBase" : 10,
+  "MPowerBonus" : 20,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

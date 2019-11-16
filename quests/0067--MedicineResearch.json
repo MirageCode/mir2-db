@@ -1,0 +1,15 @@
+{
+  "Index" : 67,
+  "Name" : "Medicine Research",
+  "Group" : "WoomyonWoods",
+  "FileName" : "67",
+  "RequiredMinLevel" : 19,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return the Blood back to Helen in WoomyonWoods",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

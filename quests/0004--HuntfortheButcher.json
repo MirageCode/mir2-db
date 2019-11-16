@@ -1,0 +1,15 @@
+{
+  "Index" : 4,
+  "Name" : "Hunt for the Butcher",
+  "Group" : "BichonProvince",
+  "FileName" : "4",
+  "RequiredMinLevel" : 1,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 3,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Butcher John at 293:603",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 45,
+  "Name" : "Red Snake's Teeth",
+  "Group" : "PrajnaIsland",
+  "FileName" : "45",
+  "RequiredMinLevel" : 13,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 44,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Hunt RedSnakes and Return to Robert in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

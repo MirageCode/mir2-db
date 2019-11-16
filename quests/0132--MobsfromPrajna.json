@@ -1,0 +1,15 @@
+{
+  "Index" : 132,
+  "Name" : "Mobs from Prajna",
+  "Group" : "PrajnaIsland",
+  "FileName" : "132",
+  "RequiredMinLevel" : 36,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the VillageChief in PrajnaIsland",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

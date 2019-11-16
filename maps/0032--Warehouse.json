@@ -1,0 +1,53 @@
+{
+  "Index" : 32,
+  "FileName" : "0140",
+  "Title" : "Warehouse",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : true,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 2,
+        "Y" : 11
+      },
+      "Destination" : {
+        "X" : 306,
+        "Y" : 628
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

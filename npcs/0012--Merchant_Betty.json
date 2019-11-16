@@ -1,0 +1,25 @@
+{
+  "Index" : 12,
+  "FileName" : "BichonProvince/BorderVillage/Bracelet-0141",
+  "Name" : "Merchant_Betty",
+  "MapIndex" : 31,
+  "Location" : {
+    "X" : 15,
+    "Y" : 18
+  },
+  "Rate" : 100,
+  "Image" : 5,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

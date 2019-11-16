@@ -1,0 +1,15 @@
+{
+  "Index" : 134,
+  "Name" : "Ingredient from Prajna",
+  "Group" : "PrajnaIsland",
+  "FileName" : "134",
+  "RequiredMinLevel" : 37,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver the Algae to MongchonWall CraftsLady",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

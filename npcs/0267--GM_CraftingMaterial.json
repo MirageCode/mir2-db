@@ -1,0 +1,25 @@
+{
+  "Index" : 267,
+  "FileName" : "GM/GM-CraftingMaterial",
+  "Name" : "GM_CraftingMaterial",
+  "MapIndex" : 384,
+  "Location" : {
+    "X" : 102,
+    "Y" : 105
+  },
+  "Rate" : 100,
+  "Image" : 3,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 952,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

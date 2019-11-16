@@ -1,0 +1,15 @@
+{
+  "Index" : 99,
+  "Name" : "Boss Mob Hunt",
+  "Group" : "WoomyonWoods",
+  "FileName" : "99",
+  "RequiredMinLevel" : 23,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 98,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to SubjugationLead in WoomyonWoods",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

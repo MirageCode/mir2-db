@@ -1,0 +1,25 @@
+{
+  "Index" : 258,
+  "FileName" : "GM/GM-Belt",
+  "Name" : "GM_Belt",
+  "MapIndex" : 384,
+  "Location" : {
+    "X" : 95,
+    "Y" : 96
+  },
+  "Rate" : 100,
+  "Image" : 9,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 952,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

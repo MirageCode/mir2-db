@@ -1,0 +1,15 @@
+{
+  "Index" : 17,
+  "Name" : "Test for FatalSword Skill",
+  "Group" : "BichonProvince",
+  "FileName" : "17",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 16,
+  "RequiredClass" : 8,
+  "Type" : 0,
+  "GotoMessage" : "Return to Cloud at 101:411",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

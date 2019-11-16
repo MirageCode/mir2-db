@@ -1,0 +1,25 @@
+{
+  "Index" : 230,
+  "FileName" : "WasteLand/Excavenger-HELL00",
+  "Name" : "Excavenger_Stuart",
+  "MapIndex" : 334,
+  "Location" : {
+    "X" : 264,
+    "Y" : 240
+  },
+  "Rate" : 100,
+  "Image" : 27,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

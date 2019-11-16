@@ -1,0 +1,22 @@
+{
+  "Name" : "Haste",
+  "Spell" : "Haste",
+  "BaseCost" : 3,
+  "LevelCost" : 2,
+  "Icon" : 60,
+  "Level1" : 20,
+  "Level2" : 22,
+  "Level3" : 25,
+  "Need1" : 2000,
+  "Need2" : 3000,
+  "Need3" : 6000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

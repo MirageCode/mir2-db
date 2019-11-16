@@ -1,0 +1,2479 @@
+{
+  "Index" : 64,
+  "FileName" : "1",
+  "Title" : "WoomyonWoods(S)",
+  "MiniMap" : 102,
+  "BigMap" : 136,
+  "Music" : 0,
+  "Light" : "Normal",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : false,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [{
+      "Location" : {
+        "X" : 315,
+        "Y" : 82
+      },
+      "Size" : 15,
+      "StartPoint" : false
+    }],
+  "Movements" : [{
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 559,
+        "Y" : 559
+      },
+      "Destination" : {
+        "X" : 324,
+        "Y" : 41
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 560,
+        "Y" : 560
+      },
+      "Destination" : {
+        "X" : 325,
+        "Y" : 42
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 561,
+        "Y" : 560
+      },
+      "Destination" : {
+        "X" : 326,
+        "Y" : 43
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 560,
+        "Y" : 559
+      },
+      "Destination" : {
+        "X" : 325,
+        "Y" : 41
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 561,
+        "Y" : 560
+      },
+      "Destination" : {
+        "X" : 326,
+        "Y" : 42
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 65,
+      "Source" : {
+        "X" : 205,
+        "Y" : 518
+      },
+      "Destination" : {
+        "X" : 68,
+        "Y" : 284
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 65,
+      "Source" : {
+        "X" : 206,
+        "Y" : 518
+      },
+      "Destination" : {
+        "X" : 68,
+        "Y" : 285
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 69,
+      "Source" : {
+        "X" : 84,
+        "Y" : 277
+      },
+      "Destination" : {
+        "X" : 76,
+        "Y" : 74
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 69,
+      "Source" : {
+        "X" : 84,
+        "Y" : 278
+      },
+      "Destination" : {
+        "X" : 76,
+        "Y" : 75
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 46,
+        "Y" : 170
+      },
+      "Destination" : {
+        "X" : 443,
+        "Y" : 189
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 47,
+        "Y" : 169
+      },
+      "Destination" : {
+        "X" : 443,
+        "Y" : 189
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 48,
+        "Y" : 168
+      },
+      "Destination" : {
+        "X" : 443,
+        "Y" : 189
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 49,
+        "Y" : 167
+      },
+      "Destination" : {
+        "X" : 443,
+        "Y" : 189
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 50,
+        "Y" : 166
+      },
+      "Destination" : {
+        "X" : 443,
+        "Y" : 189
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 51,
+        "Y" : 165
+      },
+      "Destination" : {
+        "X" : 443,
+        "Y" : 189
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 103,
+      "Source" : {
+        "X" : 155,
+        "Y" : 401
+      },
+      "Destination" : {
+        "X" : 457,
+        "Y" : 203
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 103,
+      "Source" : {
+        "X" : 156,
+        "Y" : 402
+      },
+      "Destination" : {
+        "X" : 457,
+        "Y" : 203
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 103,
+      "Source" : {
+        "X" : 157,
+        "Y" : 403
+      },
+      "Destination" : {
+        "X" : 457,
+        "Y" : 203
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 103,
+      "Source" : {
+        "X" : 157,
+        "Y" : 404
+      },
+      "Destination" : {
+        "X" : 457,
+        "Y" : 203
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 43,
+        "Y" : 34
+      },
+      "Destination" : {
+        "X" : 46,
+        "Y" : 481
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 44,
+        "Y" : 33
+      },
+      "Destination" : {
+        "X" : 47,
+        "Y" : 480
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 45,
+        "Y" : 32
+      },
+      "Destination" : {
+        "X" : 48,
+        "Y" : 479
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 46,
+        "Y" : 31
+      },
+      "Destination" : {
+        "X" : 49,
+        "Y" : 478
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 47,
+        "Y" : 30
+      },
+      "Destination" : {
+        "X" : 50,
+        "Y" : 477
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 43,
+        "Y" : 34
+      },
+      "Destination" : {
+        "X" : 46,
+        "Y" : 481
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 44,
+        "Y" : 33
+      },
+      "Destination" : {
+        "X" : 47,
+        "Y" : 480
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 45,
+        "Y" : 32
+      },
+      "Destination" : {
+        "X" : 48,
+        "Y" : 479
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 46,
+        "Y" : 31
+      },
+      "Destination" : {
+        "X" : 49,
+        "Y" : 478
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 108,
+      "Source" : {
+        "X" : 47,
+        "Y" : 30
+      },
+      "Destination" : {
+        "X" : 50,
+        "Y" : 477
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 55,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 10,
+      "Spread" : 80,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 580,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 55,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 10,
+      "Spread" : 80,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 581,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 48,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 50,
+      "Spread" : 150,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 582,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 50,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 10,
+      "Spread" : 150,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 583,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 52,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 1,
+      "Spread" : 150,
+      "Delay" : 120,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 584,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 55,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 30,
+      "Spread" : 150,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 585,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 48,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 20,
+      "Spread" : 100,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 586,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 50,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 5,
+      "Spread" : 100,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 587,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 52,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 120,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 588,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 55,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 50,
+      "Spread" : 230,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 589,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 48,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 50,
+      "Spread" : 230,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 590,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 50,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 20,
+      "Spread" : 230,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 591,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 52,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 1,
+      "Spread" : 230,
+      "Delay" : 60,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 592,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 48,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 20,
+      "Spread" : 100,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 593,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 50,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 5,
+      "Spread" : 100,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 594,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 52,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 1,
+      "Spread" : 100,
+      "Delay" : 60,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 595,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 55,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 30,
+      "Spread" : 100,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 596,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 46,
+      "Location" : {
+        "X" : 238,
+        "Y" : 511
+      },
+      "Count" : 20,
+      "Spread" : 80,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 597,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 44,
+      "Location" : {
+        "X" : 497,
+        "Y" : 465
+      },
+      "Count" : 20,
+      "Spread" : 50,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 598,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 42,
+      "Location" : {
+        "X" : 497,
+        "Y" : 445
+      },
+      "Count" : 20,
+      "Spread" : 50,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 599,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 47,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 80,
+      "Spread" : 250,
+      "Delay" : 3,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 600,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 57,
+      "Location" : {
+        "X" : 333,
+        "Y" : 280
+      },
+      "Count" : 1,
+      "Spread" : 75,
+      "Delay" : 60,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 601,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 56,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 1,
+      "Spread" : 250,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 602,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 49,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 1,
+      "Spread" : 250,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 603,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 51,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 1,
+      "Spread" : 250,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 604,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 45,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 1,
+      "Spread" : 250,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 605,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 43,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 1,
+      "Spread" : 250,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 606,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 607,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 608,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 609,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 610,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 611,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 612,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 613,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 614,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 615,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 616,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 617,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 618,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 619,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 620,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 621,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 238,
+        "Y" : 511
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 622,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 497,
+        "Y" : 465
+      },
+      "Count" : 2,
+      "Spread" : 50,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 623,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 497,
+        "Y" : 445
+      },
+      "Count" : 2,
+      "Spread" : 50,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 624,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 58,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 2,
+      "Spread" : 250,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 625,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 3,
+      "Spread" : 80,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 626,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 3,
+      "Spread" : 80,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 627,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 3,
+      "Spread" : 150,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 628,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 3,
+      "Spread" : 150,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 629,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 3,
+      "Spread" : 150,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 630,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 3,
+      "Spread" : 150,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 631,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 3,
+      "Spread" : 100,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 632,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 3,
+      "Spread" : 100,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 633,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 3,
+      "Spread" : 100,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 634,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 3,
+      "Spread" : 230,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 635,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 3,
+      "Spread" : 230,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 636,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 3,
+      "Spread" : 230,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 637,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 3,
+      "Spread" : 230,
+      "Delay" : 120,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 638,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 3,
+      "Spread" : 100,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 639,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 3,
+      "Spread" : 100,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 640,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 3,
+      "Spread" : 100,
+      "Delay" : 120,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 641,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 3,
+      "Spread" : 100,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 642,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 238,
+        "Y" : 511
+      },
+      "Count" : 3,
+      "Spread" : 80,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 643,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 497,
+        "Y" : 465
+      },
+      "Count" : 3,
+      "Spread" : 50,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 644,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 60,
+      "Location" : {
+        "X" : 497,
+        "Y" : 445
+      },
+      "Count" : 3,
+      "Spread" : 50,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 645,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 59,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 3,
+      "Spread" : 250,
+      "Delay" : 180,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 646,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 7,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 647,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 7,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 648,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 649,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 650,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 651,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 652,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 653,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 654,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 655,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 656,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 657,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 658,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 659,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 660,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 661,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 662,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 663,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 238,
+        "Y" : 511
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 664,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 497,
+        "Y" : 465
+      },
+      "Count" : 2,
+      "Spread" : 50,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 665,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 497,
+        "Y" : 445
+      },
+      "Count" : 2,
+      "Spread" : 50,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 666,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 61,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 2,
+      "Spread" : 250,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 667,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 7,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 668,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 7,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 669,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 670,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 671,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 672,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 673,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 674,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 675,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 676,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 677,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 678,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 679,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 680,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 681,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 682,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 683,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 684,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 238,
+        "Y" : 511
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 685,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 497,
+        "Y" : 465
+      },
+      "Count" : 2,
+      "Spread" : 50,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 686,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 497,
+        "Y" : 445
+      },
+      "Count" : 2,
+      "Spread" : 50,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 687,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 62,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 2,
+      "Spread" : 250,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 688,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 7,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 689,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 145,
+        "Y" : 60
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 7,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 690,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 691,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 692,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 693,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 302,
+        "Y" : 164
+      },
+      "Count" : 2,
+      "Spread" : 150,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 694,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 695,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 696,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 352,
+        "Y" : 382
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 697,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 698,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 699,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 700,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 250,
+        "Y" : 230
+      },
+      "Count" : 2,
+      "Spread" : 230,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 701,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 702,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 703,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 704,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 219,
+        "Y" : 381
+      },
+      "Count" : 2,
+      "Spread" : 100,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 705,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 238,
+        "Y" : 511
+      },
+      "Count" : 2,
+      "Spread" : 80,
+      "Delay" : 6,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 706,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 497,
+        "Y" : 465
+      },
+      "Count" : 2,
+      "Spread" : 50,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 707,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 497,
+        "Y" : 445
+      },
+      "Count" : 2,
+      "Spread" : 50,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 708,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 63,
+      "Location" : {
+        "X" : 250,
+        "Y" : 250
+      },
+      "Count" : 2,
+      "Spread" : 250,
+      "Delay" : 9,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 709,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 3,
+      "Location" : {
+        "X" : 290,
+        "Y" : 107
+      },
+      "Count" : 1,
+      "Spread" : 1,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 710,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 3,
+      "Location" : {
+        "X" : 286,
+        "Y" : 107
+      },
+      "Count" : 1,
+      "Spread" : 1,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 711,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 3,
+      "Location" : {
+        "X" : 334,
+        "Y" : 61
+      },
+      "Count" : 1,
+      "Spread" : 1,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 712,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 3,
+      "Location" : {
+        "X" : 330,
+        "Y" : 57
+      },
+      "Count" : 1,
+      "Spread" : 1,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 713,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 3,
+      "Location" : {
+        "X" : 334,
+        "Y" : 110
+      },
+      "Count" : 1,
+      "Spread" : 1,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 714,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 3,
+      "Location" : {
+        "X" : 337,
+        "Y" : 107
+      },
+      "Count" : 1,
+      "Spread" : 1,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 715,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 3,
+      "Location" : {
+        "X" : 326,
+        "Y" : 94
+      },
+      "Count" : 1,
+      "Spread" : 0,
+      "Delay" : 0,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "WoomyonWoods(S)/WWPatrol1",
+      "RespawnIndex" : 716,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

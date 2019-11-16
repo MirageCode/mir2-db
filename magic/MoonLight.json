@@ -1,0 +1,22 @@
+{
+  "Name" : "MoonLight",
+  "Spell" : "MoonLight",
+  "BaseCost" : 36,
+  "LevelCost" : 3,
+  "Icon" : 65,
+  "Level1" : 36,
+  "Level2" : 39,
+  "Level3" : 42,
+  "Need1" : 3000,
+  "Need2" : 5000,
+  "Need3" : 8000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 20,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

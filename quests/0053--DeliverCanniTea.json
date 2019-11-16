@@ -1,0 +1,15 @@
+{
+  "Index" : 53,
+  "Name" : "Deliver CanniTea",
+  "Group" : "BichonProvince",
+  "FileName" : "53",
+  "RequiredMinLevel" : 16,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 52,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver CanniTea to MirGuide",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

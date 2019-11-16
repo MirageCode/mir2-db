@@ -1,0 +1,15 @@
+{
+  "Index" : 107,
+  "Name" : "Last Words",
+  "Group" : "DeathValley",
+  "FileName" : "107",
+  "RequiredMinLevel" : 24,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 106,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return Necklace to Rachel in MongchonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

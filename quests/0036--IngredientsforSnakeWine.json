@@ -1,0 +1,15 @@
+{
+  "Index" : 36,
+  "Name" : "Ingredients for Snake Wine",
+  "Group" : "SerpentValley",
+  "FileName" : "36",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 35,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to InnKeeper at 517:466",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

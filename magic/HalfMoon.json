@@ -1,0 +1,22 @@
+{
+  "Name" : "HalfMoon",
+  "Spell" : "HalfMoon",
+  "BaseCost" : 3,
+  "LevelCost" : 0,
+  "Icon" : 24,
+  "Level1" : 26,
+  "Level2" : 28,
+  "Level3" : 31,
+  "Need1" : 5000,
+  "Need2" : 8000,
+  "Need3" : 14000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 0.30000001192092896,
+  "MultiplierBonus" : 0.10000000149011612,
+  "Range" : 9
+}

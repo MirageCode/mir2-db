@@ -1,0 +1,15 @@
+{
+  "Index" : 11,
+  "Name" : "Test for the Fireball Skill",
+  "Group" : "BichonProvince",
+  "FileName" : "11",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 10,
+  "RequiredClass" : 2,
+  "Type" : 0,
+  "GotoMessage" : "Return to MasterMage at 314:474",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

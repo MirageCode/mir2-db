@@ -1,0 +1,53 @@
+{
+  "Index" : 25,
+  "FileName" : "0127",
+  "Title" : "Prison",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : true,
+  "NoReconnect" : false,
+  "NoRandom" : true,
+  "NoEscape" : true,
+  "NoRecall" : true,
+  "NoDrug" : false,
+  "NoPosition" : true,
+  "NoFight" : true,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 14,
+        "Y" : 17
+      },
+      "Destination" : {
+        "X" : 311,
+        "Y" : 601
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

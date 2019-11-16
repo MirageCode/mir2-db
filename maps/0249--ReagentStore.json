@@ -1,0 +1,66 @@
+{
+  "Index" : 249,
+  "FileName" : "0154",
+  "Title" : "ReagentStore",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : true,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 172,
+      "Source" : {
+        "X" : 6,
+        "Y" : 22
+      },
+      "Destination" : {
+        "X" : 677,
+        "Y" : 294
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 172,
+      "Source" : {
+        "X" : 17,
+        "Y" : 11
+      },
+      "Destination" : {
+        "X" : 684,
+        "Y" : 286
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "DoubleShot",
+  "Spell" : "DoubleShot",
+  "BaseCost" : 3,
+  "LevelCost" : 2,
+  "Icon" : 90,
+  "Level1" : 14,
+  "Level2" : 18,
+  "Level3" : 21,
+  "Need1" : 700,
+  "Need2" : 1500,
+  "Need3" : 2100,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 2,
+  "PowerBonus" : 0,
+  "MPowerBase" : 6,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

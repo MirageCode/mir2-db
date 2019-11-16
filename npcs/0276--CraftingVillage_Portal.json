@@ -1,0 +1,25 @@
+{
+  "Index" : 276,
+  "FileName" : "CraftingPortal/Bichon",
+  "Name" : "CraftingVillage_Portal",
+  "MapIndex" : 1,
+  "Location" : {
+    "X" : 328,
+    "Y" : 260
+  },
+  "Rate" : 100,
+  "Image" : 0,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 542,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

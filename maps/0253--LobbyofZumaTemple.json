@@ -1,0 +1,92 @@
+{
+  "Index" : 253,
+  "FileName" : "0157",
+  "Title" : "LobbyofZumaTemple",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Night",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 172,
+      "Source" : {
+        "X" : 8,
+        "Y" : 26
+      },
+      "Destination" : {
+        "X" : 861,
+        "Y" : 175
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 172,
+      "Source" : {
+        "X" : 9,
+        "Y" : 27
+      },
+      "Destination" : {
+        "X" : 862,
+        "Y" : 175
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 254,
+      "Source" : {
+        "X" : 20,
+        "Y" : 15
+      },
+      "Destination" : {
+        "X" : 166,
+        "Y" : 216
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 254,
+      "Source" : {
+        "X" : 20,
+        "Y" : 5
+      },
+      "Destination" : {
+        "X" : 166,
+        "Y" : 216
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

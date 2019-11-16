@@ -1,0 +1,154 @@
+{
+  "Index" : 285,
+  "FileName" : "EBEE02",
+  "Title" : "SwampCavern_2F",
+  "MiniMap" : 331,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Night",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : true,
+  "NoEscape" : false,
+  "NoRecall" : true,
+  "NoDrug" : false,
+  "NoPosition" : true,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 284,
+      "Source" : {
+        "X" : 19,
+        "Y" : 37
+      },
+      "Destination" : {
+        "X" : 281,
+        "Y" : 34
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 284,
+      "Source" : {
+        "X" : 14,
+        "Y" : 278
+      },
+      "Destination" : {
+        "X" : 268,
+        "Y" : 274
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 286,
+      "Source" : {
+        "X" : 288,
+        "Y" : 138
+      },
+      "Destination" : {
+        "X" : 19,
+        "Y" : 30
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 468,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 120,
+      "Spread" : 170,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 4348,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 469,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 80,
+      "Spread" : 170,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 4349,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 470,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 100,
+      "Spread" : 170,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 4350,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 471,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 60,
+      "Spread" : 170,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 4351,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 472,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 70,
+      "Spread" : 170,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 4352,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

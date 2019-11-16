@@ -1,0 +1,22 @@
+{
+  "Enabled" : true,
+  "MapFileName" : "D2083",
+  "MonsterName" : "Evil Mir",
+  "BodyName" : "00",
+  "Location" : {
+    "X" : 82,
+    "Y" : 44
+  },
+  "DropAreaTop" : {
+    "X" : 75,
+    "Y" : 45
+  },
+  "DropAreaBottom" : {
+    "X" : 86,
+    "Y" : 57
+  },
+  "Drops" : [[], [], [], [], [], [], [], [], [], [], [], [], []],
+  "Exps" : [NumberLong(10000), NumberLong(20000), NumberLong(30000), NumberLong(40000), NumberLong(50000), NumberLong(60000), NumberLong(70000), NumberLong(80000), NumberLong(90000), NumberLong(100000), NumberLong(110000), NumberLong(120000)],
+  "Level" : 1,
+  "Experience" : NumberLong(0)
+}

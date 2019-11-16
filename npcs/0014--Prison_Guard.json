@@ -1,0 +1,25 @@
+{
+  "Index" : 14,
+  "FileName" : "BichonProvince/BorderVillage/Prison-0127",
+  "Name" : "Prison_Guard",
+  "MapIndex" : 25,
+  "Location" : {
+    "X" : 13,
+    "Y" : 13
+  },
+  "Rate" : 100,
+  "Image" : 52,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

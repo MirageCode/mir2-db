@@ -1,0 +1,15 @@
+{
+  "Index" : 100,
+  "Name" : "Deadly Attack",
+  "Group" : "WoomyonWoods",
+  "FileName" : "100",
+  "RequiredMinLevel" : 23,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 99,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to SubjagationManager in BichonWall with an update.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 105,
+  "Name" : "Lost Soul",
+  "Group" : "DeathValley",
+  "FileName" : "105",
+  "RequiredMinLevel" : 24,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

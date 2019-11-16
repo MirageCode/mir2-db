@@ -1,0 +1,15 @@
+{
+  "Index" : 50,
+  "Name" : "Cook Book Delivery",
+  "Group" : "BichonProvince",
+  "FileName" : "50",
+  "RequiredMinLevel" : 16,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver the CookBook to Jim in CastleGi-Ryoong ",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

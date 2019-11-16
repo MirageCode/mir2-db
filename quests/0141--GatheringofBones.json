@@ -1,0 +1,15 @@
+{
+  "Index" : 141,
+  "Name" : "Gathering of Bones",
+  "Group" : "BichonProvince",
+  "FileName" : "141",
+  "RequiredMinLevel" : 15,
+  "RequiredMaxLevel" : 22,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 1,
+  "GotoMessage" : "Return to BichonWall Board.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

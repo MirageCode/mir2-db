@@ -1,0 +1,143 @@
+{
+  "Index" : 333,
+  "FileName" : "D2083",
+  "Title" : "EvilMirPalace",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : true,
+  "NoReconnect" : true,
+  "NoRandom" : true,
+  "NoEscape" : false,
+  "NoRecall" : true,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : true,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "63",
+  "FireDamage" : 0,
+  "LightningDamage" : 100,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 332,
+      "Source" : {
+        "X" : 39,
+        "Y" : 89
+      },
+      "Destination" : {
+        "X" : 374,
+        "Y" : 273
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 394,
+      "Location" : {
+        "X" : 43,
+        "Y" : 69
+      },
+      "Count" : 1,
+      "Spread" : 0,
+      "Delay" : 20,
+      "RandomDelay" : 0,
+      "Direction" : 5,
+      "RoutePath" : "",
+      "RespawnIndex" : 5364,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 394,
+      "Location" : {
+        "X" : 53,
+        "Y" : 59
+      },
+      "Count" : 1,
+      "Spread" : 0,
+      "Delay" : 20,
+      "RandomDelay" : 0,
+      "Direction" : 5,
+      "RoutePath" : "",
+      "RespawnIndex" : 5365,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 394,
+      "Location" : {
+        "X" : 64,
+        "Y" : 48
+      },
+      "Count" : 1,
+      "Spread" : 0,
+      "Delay" : 20,
+      "RandomDelay" : 0,
+      "Direction" : 5,
+      "RoutePath" : "",
+      "RespawnIndex" : 5366,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 394,
+      "Location" : {
+        "X" : 59,
+        "Y" : 85
+      },
+      "Count" : 1,
+      "Spread" : 0,
+      "Delay" : 20,
+      "RandomDelay" : 0,
+      "Direction" : 4,
+      "RoutePath" : "",
+      "RespawnIndex" : 5367,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 394,
+      "Location" : {
+        "X" : 69,
+        "Y" : 75
+      },
+      "Count" : 1,
+      "Spread" : 0,
+      "Delay" : 20,
+      "RandomDelay" : 0,
+      "Direction" : 4,
+      "RoutePath" : "",
+      "RespawnIndex" : 5368,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 394,
+      "Location" : {
+        "X" : 81,
+        "Y" : 64
+      },
+      "Count" : 1,
+      "Spread" : 0,
+      "Delay" : 20,
+      "RandomDelay" : 0,
+      "Direction" : 4,
+      "RoutePath" : "",
+      "RespawnIndex" : 5369,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 2,
+  "Name" : "The CraftLady's Request",
+  "Group" : "BichonProvince",
+  "FileName" : "2",
+  "RequiredMinLevel" : 1,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 1,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver GingerTea to Assistant Jane",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

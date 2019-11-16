@@ -1,0 +1,25 @@
+{
+  "Index" : 144,
+  "FileName" : "MongchonProvince/MudWall/Butcher-3",
+  "Name" : "Merchant_Rupert",
+  "MapIndex" : 172,
+  "Location" : {
+    "X" : 355,
+    "Y" : 329
+  },
+  "Rate" : 100,
+  "Image" : 11,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

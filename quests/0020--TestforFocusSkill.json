@@ -1,0 +1,15 @@
+{
+  "Index" : 20,
+  "Name" : "Test for Focus Skill",
+  "Group" : "BichonProvince",
+  "FileName" : "20",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 19,
+  "RequiredClass" : 16,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Captain at 320:477",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

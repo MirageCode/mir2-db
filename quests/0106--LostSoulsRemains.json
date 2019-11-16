@@ -1,0 +1,15 @@
+{
+  "Index" : 106,
+  "Name" : "Lost Soul's Remains",
+  "Group" : "DeathValley",
+  "FileName" : "106",
+  "RequiredMinLevel" : 24,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 105,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the LostSoul on S_1FofDungeon 202:204",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

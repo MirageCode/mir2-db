@@ -1,0 +1,15 @@
+{
+  "Index" : 28,
+  "Name" : "Find the Web",
+  "Group" : "BichonProvince",
+  "FileName" : "28",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Samuel at 324:291",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

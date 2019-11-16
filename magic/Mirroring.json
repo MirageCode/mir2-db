@@ -1,0 +1,22 @@
+{
+  "Name" : "Mirroring",
+  "Spell" : "Mirroring",
+  "BaseCost" : 21,
+  "LevelCost" : 0,
+  "Icon" : 41,
+  "Level1" : 41,
+  "Level2" : 43,
+  "Level3" : 45,
+  "Need1" : 6000,
+  "Need2" : 11000,
+  "Need3" : 16000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

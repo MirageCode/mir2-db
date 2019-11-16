@@ -1,0 +1,15 @@
+{
+  "Index" : 12,
+  "Name" : "To Bichon",
+  "Group" : "BichonProvince",
+  "FileName" : "12",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 11,
+  "RequiredClass" : 2,
+  "Type" : 0,
+  "GotoMessage" : "Speak to Peter in BichonWall at 335:275",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

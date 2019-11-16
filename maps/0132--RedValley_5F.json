@@ -1,0 +1,218 @@
+{
+  "Index" : 132,
+  "FileName" : "D10053",
+  "Title" : "RedValley_5F",
+  "MiniMap" : 108,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Night",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : true,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : true,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "D10031",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 128,
+      "Source" : {
+        "X" : 41,
+        "Y" : 91
+      },
+      "Destination" : {
+        "X" : 11,
+        "Y" : 27
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 303,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 30,
+      "Spread" : 75,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1689,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 310,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 30,
+      "Spread" : 75,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1690,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 302,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 5,
+      "Spread" : 75,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1691,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 316,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 30,
+      "Spread" : 75,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1692,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 322,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 10,
+      "Spread" : 75,
+      "Delay" : 60,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1693,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 303,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 30,
+      "Spread" : 75,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1694,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 310,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 30,
+      "Spread" : 75,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1695,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 302,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 5,
+      "Spread" : 75,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1696,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 316,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 30,
+      "Spread" : 75,
+      "Delay" : 5,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1697,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 322,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 10,
+      "Spread" : 75,
+      "Delay" : 60,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1698,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 323,
+      "Location" : {
+        "X" : 75,
+        "Y" : 75
+      },
+      "Count" : 1,
+      "Spread" : 75,
+      "Delay" : 360,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1699,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

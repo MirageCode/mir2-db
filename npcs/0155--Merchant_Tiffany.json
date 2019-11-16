@@ -1,0 +1,25 @@
+{
+  "Index" : 155,
+  "FileName" : "MongchonProvince/MudWall/JewelersRing-0158",
+  "Name" : "Merchant_Tiffany",
+  "MapIndex" : 179,
+  "Location" : {
+    "X" : 11,
+    "Y" : 16
+  },
+  "Rate" : 100,
+  "Image" : 5,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

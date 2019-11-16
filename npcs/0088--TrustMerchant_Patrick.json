@@ -1,0 +1,25 @@
+{
+  "Index" : 88,
+  "FileName" : "WoomyonWoods/Castle-GI/TrustMerchant",
+  "Name" : "TrustMerchant_Patrick",
+  "MapIndex" : 77,
+  "Location" : {
+    "X" : 230,
+    "Y" : 196
+  },
+  "Rate" : 100,
+  "Image" : 16,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 74,
+  "Name" : "Free the Souls from Zombies",
+  "Group" : "SerpentValley",
+  "FileName" : "74",
+  "RequiredMinLevel" : 0,
+  "RequiredMaxLevel" : 20,
+  "RequiredQuest" : 255,
+  "RequiredClass" : 0,
+  "Type" : 0,
+  "GotoMessage" : "Return to the VulnerableSon",
+  "KillMessage" : " At SerpentDeadMine Entrance.",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

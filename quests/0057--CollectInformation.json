@@ -1,0 +1,15 @@
+{
+  "Index" : 57,
+  "Name" : "Collect Information",
+  "Group" : "BichonProvince",
+  "FileName" : "57",
+  "RequiredMinLevel" : 17,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Take CaveReport to Kyle at the South East Gate.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

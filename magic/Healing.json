@@ -1,0 +1,22 @@
+{
+  "Name" : "Healing",
+  "Spell" : "Healing",
+  "BaseCost" : 3,
+  "LevelCost" : 2,
+  "Icon" : 1,
+  "Level1" : 7,
+  "Level2" : 11,
+  "Level3" : 14,
+  "Need1" : 150,
+  "Need2" : 350,
+  "Need3" : 700,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 14,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "TwinDrakeBlade",
+  "Spell" : "TwinDrakeBlade",
+  "BaseCost" : 10,
+  "LevelCost" : 0,
+  "Icon" : 37,
+  "Level1" : 32,
+  "Level2" : 34,
+  "Level3" : 37,
+  "Need1" : 4000,
+  "Need2" : 6000,
+  "Need3" : 10000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 0.80000001192092896,
+  "MultiplierBonus" : 0.10000000149011612,
+  "Range" : 9
+}

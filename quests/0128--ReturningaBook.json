@@ -1,0 +1,15 @@
+{
+  "Index" : 128,
+  "Name" : "Returning a Book",
+  "Group" : "TaoVillage",
+  "FileName" : "128",
+  "RequiredMinLevel" : 31,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 127,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return the Book to VillageChief in PrajnaIsland",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

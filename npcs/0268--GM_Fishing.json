@@ -1,0 +1,25 @@
+{
+  "Index" : 268,
+  "FileName" : "GM/GM-Fishing",
+  "Name" : "GM_Fishing",
+  "MapIndex" : 384,
+  "Location" : {
+    "X" : 103,
+    "Y" : 105
+  },
+  "Rate" : 100,
+  "Image" : 14,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 952,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

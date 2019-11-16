@@ -1,0 +1,25 @@
+{
+  "Index" : 293,
+  "FileName" : "TravellingMerchant",
+  "Name" : "TravellingMerchant_Damian",
+  "MapIndex" : 366,
+  "Location" : {
+    "X" : 296,
+    "Y" : 251
+  },
+  "Rate" : 100,
+  "Image" : 94,
+  "TimeVisible" : true,
+  "HourStart" : 1,
+  "MinuteStart" : 30,
+  "HourEnd" : 2,
+  "MinuteEnd" : 30,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

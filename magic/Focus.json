@@ -1,0 +1,22 @@
+{
+  "Name" : "Focus",
+  "Spell" : "Focus",
+  "BaseCost" : 0,
+  "LevelCost" : 0,
+  "Icon" : 88,
+  "Level1" : 7,
+  "Level2" : 13,
+  "Level3" : 17,
+  "Need1" : 270,
+  "Need2" : 600,
+  "Need3" : 1300,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

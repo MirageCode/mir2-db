@@ -1,0 +1,22 @@
+{
+  "Name" : "StormEscape",
+  "Spell" : "StormEscape",
+  "BaseCost" : 65,
+  "LevelCost" : 8,
+  "Icon" : 23,
+  "Level1" : 60,
+  "Level2" : 61,
+  "Level3" : 62,
+  "Need1" : 2200,
+  "Need2" : 3300,
+  "Need3" : 4400,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 4,
+  "PowerBonus" : 4,
+  "MPowerBase" : 12,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 78,
+  "Name" : "Hidden Box",
+  "Group" : "MongchonProvince",
+  "FileName" : "78",
+  "RequiredMinLevel" : 20,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 77,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

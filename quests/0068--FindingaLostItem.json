@@ -1,0 +1,15 @@
+{
+  "Index" : 68,
+  "Name" : "Finding a Lost Item",
+  "Group" : "WoomyonWoods",
+  "FileName" : "68",
+  "RequiredMinLevel" : 19,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 67,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return the Blood back to Helen in WoomyonWoods",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

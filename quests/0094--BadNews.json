@@ -1,0 +1,15 @@
+{
+  "Index" : 94,
+  "Name" : "Bad News",
+  "Group" : "TaoVillage",
+  "FileName" : "94",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 93,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return the TraineeRing to Hubert in TaoVillage 194:297",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

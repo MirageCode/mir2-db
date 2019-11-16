@@ -1,0 +1,25 @@
+{
+  "Index" : 134,
+  "FileName" : "SerpentValley/Village/Potion-2",
+  "Name" : "Merchant_Dr.Kim",
+  "MapIndex" : 146,
+  "Location" : {
+    "X" : 5,
+    "Y" : 9
+  },
+  "Rate" : 100,
+  "Image" : 1,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

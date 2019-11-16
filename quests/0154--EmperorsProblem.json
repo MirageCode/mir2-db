@@ -1,0 +1,15 @@
+{
+  "Index" : 154,
+  "Name" : "Emperors Problem",
+  "Group" : "BichonProvince",
+  "FileName" : "154",
+  "RequiredMinLevel" : 1,
+  "RequiredMaxLevel" : 65535,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : "Increase the Emperors Morale."
+}

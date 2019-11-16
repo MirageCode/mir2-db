@@ -1,0 +1,25 @@
+{
+  "Index" : 222,
+  "FileName" : "PastBichon/PastBichon_Timestone2",
+  "Name" : "TimeStone",
+  "MapIndex" : 316,
+  "Location" : {
+    "X" : 67,
+    "Y" : 246
+  },
+  "Rate" : 100,
+  "Image" : 34,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

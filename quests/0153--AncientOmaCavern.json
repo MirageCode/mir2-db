@@ -1,0 +1,15 @@
+{
+  "Index" : 153,
+  "Name" : "AncientOmaCavern",
+  "Group" : "OmaCavern",
+  "FileName" : "153",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 65535,
+  "RequiredQuest" : 152,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to CastleBichon.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

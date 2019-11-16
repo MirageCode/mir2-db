@@ -1,0 +1,15 @@
+{
+  "Index" : 71,
+  "Name" : "Lost Item",
+  "Group" : "InsectCave",
+  "FileName" : "71",
+  "RequiredMinLevel" : 19,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 70,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return the Lost Items to Soho",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

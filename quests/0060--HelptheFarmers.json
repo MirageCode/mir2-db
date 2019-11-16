@@ -1,0 +1,15 @@
+{
+  "Index" : 60,
+  "Name" : "Help the Farmers",
+  "Group" : "BichonProvince",
+  "FileName" : "60",
+  "RequiredMinLevel" : 18,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Examiner in BichonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

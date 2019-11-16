@@ -1,0 +1,22 @@
+{
+  "Name" : "ImmortalSkin",
+  "Spell" : "ImmortalSkin",
+  "BaseCost" : 10,
+  "LevelCost" : 4,
+  "Icon" : 80,
+  "Level1" : 60,
+  "Level2" : 61,
+  "Level3" : 62,
+  "Need1" : 1560,
+  "Need2" : 2200,
+  "Need3" : 3000,
+  "DelayBase" : 600000,
+  "DelayReduction" : 120000,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 0
+}

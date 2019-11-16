@@ -1,0 +1,15 @@
+{
+  "Index" : 126,
+  "Name" : "The VillageChief's Request",
+  "Group" : "PrajnaIsland",
+  "FileName" : "126",
+  "RequiredMinLevel" : 31,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 125,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to TaoVillage and speak with the LeadTrainer",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

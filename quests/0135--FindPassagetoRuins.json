@@ -1,0 +1,15 @@
+{
+  "Index" : 135,
+  "Name" : "Find Passage to Ruins",
+  "Group" : "MongchonProvince",
+  "FileName" : "135",
+  "RequiredMinLevel" : 38,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MongchonDelegate in MongchonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

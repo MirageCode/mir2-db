@@ -1,0 +1,22 @@
+{
+  "Name" : "SlashingBurst",
+  "Spell" : "SlashingBurst",
+  "BaseCost" : 25,
+  "LevelCost" : 4,
+  "Icon" : 55,
+  "Level1" : 50,
+  "Level2" : 53,
+  "Level3" : 56,
+  "Need1" : 10000,
+  "Need2" : 16000,
+  "Need3" : 24000,
+  "DelayBase" : 14000,
+  "DelayReduction" : 4000,
+  "PowerBase" : 3,
+  "PowerBonus" : 0,
+  "MPowerBase" : 1,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 3.25,
+  "MultiplierBonus" : 0.25,
+  "Range" : 9
+}

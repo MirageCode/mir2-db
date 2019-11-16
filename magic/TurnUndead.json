@@ -1,0 +1,22 @@
+{
+  "Name" : "TurnUndead",
+  "Spell" : "TurnUndead",
+  "BaseCost" : 52,
+  "LevelCost" : 13,
+  "Icon" : 31,
+  "Level1" : 32,
+  "Level2" : 35,
+  "Level3" : 39,
+  "Need1" : 3000,
+  "Need2" : 7000,
+  "Need3" : 10000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

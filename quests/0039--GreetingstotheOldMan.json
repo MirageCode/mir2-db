@@ -1,0 +1,15 @@
+{
+  "Index" : 39,
+  "Name" : "Greetings to the Old Man",
+  "Group" : "SerpentValley",
+  "FileName" : "39",
+  "RequiredMinLevel" : 12,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 33,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to WoomyonWoods and Visit Melissas Grandfather",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

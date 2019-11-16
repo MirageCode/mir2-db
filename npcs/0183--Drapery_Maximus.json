@@ -1,0 +1,25 @@
+{
+  "Index" : 183,
+  "FileName" : "MongchonProvince/Clothes-D608",
+  "Name" : "Drapery_Maximus",
+  "MapIndex" : 189,
+  "Location" : {
+    "X" : 30,
+    "Y" : 22
+  },
+  "Rate" : 100,
+  "Image" : 3,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

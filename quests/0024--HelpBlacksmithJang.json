@@ -1,0 +1,15 @@
+{
+  "Index" : 24,
+  "Name" : "Help Blacksmith Jang",
+  "Group" : "BichonProvince",
+  "FileName" : "24",
+  "RequiredMinLevel" : 7,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 23,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Speak to Blacksmith Jang in WoomyonWoods",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

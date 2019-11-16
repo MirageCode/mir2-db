@@ -1,0 +1,22 @@
+{
+  "Name" : "IceStorm",
+  "Spell" : "IceStorm",
+  "BaseCost" : 33,
+  "LevelCost" : 3,
+  "Icon" : 32,
+  "Level1" : 35,
+  "Level2" : 37,
+  "Level3" : 40,
+  "Need1" : 4000,
+  "Need2" : 8000,
+  "Need3" : 12000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 14,
+  "PowerBonus" : 0,
+  "MPowerBase" : 12,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,303 @@
+{
+  "Index" : 141,
+  "FileName" : "hyunwol2",
+  "Title" : "DarkForest",
+  "MiniMap" : 365,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Night",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : false,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 140,
+      "Source" : {
+        "X" : 220,
+        "Y" : 292
+      },
+      "Destination" : {
+        "X" : 52,
+        "Y" : 31
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 140,
+      "Source" : {
+        "X" : 221,
+        "Y" : 291
+      },
+      "Destination" : {
+        "X" : 52,
+        "Y" : 31
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 140,
+      "Source" : {
+        "X" : 222,
+        "Y" : 290
+      },
+      "Destination" : {
+        "X" : 52,
+        "Y" : 31
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 140,
+      "Source" : {
+        "X" : 223,
+        "Y" : 289
+      },
+      "Destination" : {
+        "X" : 52,
+        "Y" : 31
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 140,
+      "Source" : {
+        "X" : 224,
+        "Y" : 288
+      },
+      "Destination" : {
+        "X" : 52,
+        "Y" : 31
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 54,
+        "Y" : 36
+      },
+      "Destination" : {
+        "X" : 146,
+        "Y" : 256
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 53,
+        "Y" : 37
+      },
+      "Destination" : {
+        "X" : 146,
+        "Y" : 256
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 52,
+        "Y" : 38
+      },
+      "Destination" : {
+        "X" : 146,
+        "Y" : 256
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 51,
+        "Y" : 39
+      },
+      "Destination" : {
+        "X" : 146,
+        "Y" : 256
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 50,
+        "Y" : 40
+      },
+      "Destination" : {
+        "X" : 146,
+        "Y" : 256
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 49,
+        "Y" : 41
+      },
+      "Destination" : {
+        "X" : 146,
+        "Y" : 256
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 440,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 50,
+      "Spread" : 150,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1854,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 441,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 50,
+      "Spread" : 150,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1855,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 442,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 50,
+      "Spread" : 150,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1856,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 443,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 50,
+      "Spread" : 150,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1857,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 444,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 10,
+      "Spread" : 150,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1858,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 445,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 10,
+      "Spread" : 150,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1859,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 446,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 10,
+      "Spread" : 150,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1860,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 447,
+      "Location" : {
+        "X" : 150,
+        "Y" : 150
+      },
+      "Count" : 10,
+      "Spread" : 150,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1861,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

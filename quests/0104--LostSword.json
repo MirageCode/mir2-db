@@ -1,0 +1,15 @@
+{
+  "Index" : 104,
+  "Name" : "Lost Sword",
+  "Group" : "MongchonProvince",
+  "FileName" : "104",
+  "RequiredMinLevel" : 24,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Charleys lost sword.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

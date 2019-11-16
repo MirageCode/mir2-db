@@ -1,0 +1,22 @@
+{
+  "Name" : "ThunderBolt",
+  "Spell" : "ThunderBolt",
+  "BaseCost" : 9,
+  "LevelCost" : 2,
+  "Icon" : 10,
+  "Level1" : 17,
+  "Level2" : 20,
+  "Level3" : 23,
+  "Need1" : 500,
+  "Need2" : 2000,
+  "Need3" : 3500,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 9,
+  "PowerBonus" : 0,
+  "MPowerBase" : 8,
+  "MPowerBonus" : 20,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

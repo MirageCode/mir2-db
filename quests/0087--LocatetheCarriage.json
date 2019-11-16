@@ -1,0 +1,15 @@
+{
+  "Index" : 87,
+  "Name" : "Locate the Carriage",
+  "Group" : "BichonProvince",
+  "FileName" : "87",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 86,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Search for the Missing Carriage on the way to TaoVillage",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

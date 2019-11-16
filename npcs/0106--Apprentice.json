@@ -1,0 +1,25 @@
+{
+  "Index" : 106,
+  "FileName" : "WoomyonWoods/TaoistVillage/9Wae2",
+  "Name" : "Apprentice",
+  "MapIndex" : 108,
+  "Location" : {
+    "X" : 189,
+    "Y" : 327
+  },
+  "Rate" : 100,
+  "Image" : 21,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

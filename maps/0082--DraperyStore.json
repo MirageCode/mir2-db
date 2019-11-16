@@ -1,0 +1,92 @@
+{
+  "Index" : 82,
+  "FileName" : "B345",
+  "Title" : "DraperyStore",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : false,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 5,
+        "Y" : 11
+      },
+      "Destination" : {
+        "X" : 250,
+        "Y" : 200
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 6,
+        "Y" : 11
+      },
+      "Destination" : {
+        "X" : 250,
+        "Y" : 201
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 13,
+        "Y" : 18
+      },
+      "Destination" : {
+        "X" : 257,
+        "Y" : 205
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 77,
+      "Source" : {
+        "X" : 13,
+        "Y" : 19
+      },
+      "Destination" : {
+        "X" : 258,
+        "Y" : 206
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

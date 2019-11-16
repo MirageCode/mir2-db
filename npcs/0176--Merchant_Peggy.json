@@ -1,0 +1,25 @@
+{
+  "Index" : 176,
+  "FileName" : "MongchonProvince/SabukWall/8Ari-0154",
+  "Name" : "Merchant_Peggy",
+  "MapIndex" : 249,
+  "Location" : {
+    "X" : 10,
+    "Y" : 15
+  },
+  "Rate" : 100,
+  "Image" : 5,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "Trap",
+  "Spell" : "Trap",
+  "BaseCost" : 14,
+  "LevelCost" : 2,
+  "Icon" : 64,
+  "Level1" : 33,
+  "Level2" : 35,
+  "Level3" : 38,
+  "Need1" : 2000,
+  "Need2" : 4000,
+  "Need3" : 6000,
+  "DelayBase" : 60000,
+  "DelayReduction" : 15000,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

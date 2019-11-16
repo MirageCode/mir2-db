@@ -1,0 +1,25 @@
+{
+  "Index" : 249,
+  "FileName" : "BichonProvince/Event/MissRe-EM000",
+  "Name" : "MissRe",
+  "MapIndex" : 380,
+  "Location" : {
+    "X" : 27,
+    "Y" : 27
+  },
+  "Rate" : 100,
+  "Image" : 81,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

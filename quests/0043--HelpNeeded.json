@@ -1,0 +1,15 @@
+{
+  "Index" : 43,
+  "Name" : "Help Needed",
+  "Group" : "BichonProvince",
+  "FileName" : "43",
+  "RequiredMinLevel" : 13,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Speak to Robert in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

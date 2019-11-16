@@ -1,0 +1,22 @@
+{
+  "Name" : "Meditation",
+  "Spell" : "Meditation",
+  "BaseCost" : 8,
+  "LevelCost" : 2,
+  "Icon" : 93,
+  "Level1" : 19,
+  "Level2" : 24,
+  "Level3" : 29,
+  "Need1" : 1800,
+  "Need2" : 2600,
+  "Need3" : 5600,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

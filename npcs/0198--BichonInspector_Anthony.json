@@ -1,0 +1,25 @@
+{
+  "Index" : 198,
+  "FileName" : "PrajnaIsland/14CBi",
+  "Name" : "BichonInspector_Anthony",
+  "MapIndex" : 289,
+  "Location" : {
+    "X" : 351,
+    "Y" : 597
+  },
+  "Rate" : 100,
+  "Image" : 15,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 5,
+  "Name" : "The Smith's 1st Test",
+  "Group" : "BichonProvince",
+  "FileName" : "5",
+  "RequiredMinLevel" : 1,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Blacksmith Smith at 297:612",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

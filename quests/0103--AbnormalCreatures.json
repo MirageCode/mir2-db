@@ -1,0 +1,15 @@
+{
+  "Index" : 103,
+  "Name" : "Abnormal Creatures",
+  "Group" : "MongchonProvince",
+  "FileName" : "103",
+  "RequiredMinLevel" : 24,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Daniel in MongchonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

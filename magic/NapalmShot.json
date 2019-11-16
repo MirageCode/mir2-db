@@ -1,0 +1,22 @@
+{
+  "Name" : "NapalmShot",
+  "Spell" : "NapalmShot",
+  "BaseCost" : 40,
+  "LevelCost" : 10,
+  "Icon" : 105,
+  "Level1" : 48,
+  "Level2" : 52,
+  "Level3" : 55,
+  "Need1" : 15000,
+  "Need2" : 18000,
+  "Need3" : 21000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 25,
+  "PowerBonus" : 0,
+  "MPowerBase" : 25,
+  "MPowerBonus" : 25,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

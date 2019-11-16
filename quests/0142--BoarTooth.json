@@ -1,0 +1,15 @@
+{
+  "Index" : 142,
+  "Name" : "Boar Tooth",
+  "Group" : "MongchonProvince",
+  "FileName" : "142",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 32,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 2,
+  "GotoMessage" : "Return to MudWall Board.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

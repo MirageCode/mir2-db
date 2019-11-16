@@ -1,0 +1,15 @@
+{
+  "Index" : 55,
+  "Name" : "Restocking Supplies",
+  "Group" : "BichonProvince",
+  "FileName" : "55",
+  "RequiredMinLevel" : 17,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to CraftsLady in BichonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

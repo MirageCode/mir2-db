@@ -1,0 +1,22 @@
+{
+  "Name" : "CrippleShot",
+  "Spell" : "CrippleShot",
+  "BaseCost" : 15,
+  "LevelCost" : 3,
+  "Icon" : 103,
+  "Level1" : 43,
+  "Level2" : 47,
+  "Level3" : 50,
+  "Need1" : 12000,
+  "Need2" : 15000,
+  "Need3" : 18000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 10,
+  "PowerBonus" : 0,
+  "MPowerBase" : 10,
+  "MPowerBonus" : 20,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

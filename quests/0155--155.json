@@ -1,0 +1,15 @@
+{
+  "Index" : 155,
+  "Name" : "155",
+  "Group" : "",
+  "FileName" : "155",
+  "RequiredMinLevel" : 0,
+  "RequiredMaxLevel" : 65535,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

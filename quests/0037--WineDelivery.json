@@ -1,0 +1,15 @@
+{
+  "Index" : 37,
+  "Name" : "Wine Delivery",
+  "Group" : "SerpentValley",
+  "FileName" : "37",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 36,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MongchonScout with the Wine.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,25 @@
+{
+  "Index" : 179,
+  "FileName" : "MongchonProvince/14Qp1-D701",
+  "Name" : "WierdPillar",
+  "MapIndex" : 244,
+  "Location" : {
+    "X" : 38,
+    "Y" : 123
+  },
+  "Rate" : 100,
+  "Image" : 76,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

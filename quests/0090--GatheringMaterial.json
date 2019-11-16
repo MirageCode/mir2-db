@@ -1,0 +1,15 @@
+{
+  "Index" : 90,
+  "Name" : "Gathering Material",
+  "Group" : "TaoVillage",
+  "FileName" : "90",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Jerald to TaoVillage 234:301",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

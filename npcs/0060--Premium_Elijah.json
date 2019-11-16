@@ -1,0 +1,25 @@
+{
+  "Index" : 60,
+  "FileName" : "BichonProvince/BichonWall/14Wr-0",
+  "Name" : "Premium_Elijah",
+  "MapIndex" : 1,
+  "Location" : {
+    "X" : 356,
+    "Y" : 245
+  },
+  "Rate" : 100,
+  "Image" : 83,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

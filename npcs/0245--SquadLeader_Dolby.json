@@ -1,0 +1,25 @@
+{
+  "Index" : 245,
+  "FileName" : "WhiteValley/SquadLeader",
+  "Name" : "SquadLeader_Dolby",
+  "MapIndex" : 377,
+  "Location" : {
+    "X" : 199,
+    "Y" : 83
+  },
+  "Rate" : 100,
+  "Image" : 82,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

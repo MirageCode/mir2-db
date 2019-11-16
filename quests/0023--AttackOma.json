@@ -1,0 +1,15 @@
+{
+  "Index" : 23,
+  "Name" : "!Attack Oma",
+  "Group" : "BichonProvince",
+  "FileName" : "23",
+  "RequiredMinLevel" : 7,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 22,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

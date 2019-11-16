@@ -1,0 +1,25 @@
+{
+  "Index" : 65,
+  "FileName" : "BichonProvince/WickedTrader-DM001",
+  "Name" : "WickedTrader_James",
+  "MapIndex" : 36,
+  "Location" : {
+    "X" : 4,
+    "Y" : 6
+  },
+  "Rate" : 200,
+  "Image" : 9,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

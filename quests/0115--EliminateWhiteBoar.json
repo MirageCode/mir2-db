@@ -1,0 +1,15 @@
+{
+  "Index" : 115,
+  "Name" : "Eliminate WhiteBoar",
+  "Group" : "MongchonProvince",
+  "FileName" : "115",
+  "RequiredMinLevel" : 26,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 114,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MongchonDelegate in MongchonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

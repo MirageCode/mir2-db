@@ -1,0 +1,15 @@
+{
+  "Index" : 48,
+  "Name" : "Deliver Supplies to the Border",
+  "Group" : "BichonProvince",
+  "FileName" : "48",
+  "RequiredMinLevel" : 14,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver the Relics to Ruben in BorderVillage",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 1,
+  "Name" : "Assistant's Request",
+  "Group" : "BichonProvince",
+  "FileName" : "1",
+  "RequiredMinLevel" : 1,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver Leaves to CraftsLady",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

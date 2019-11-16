@@ -1,0 +1,15 @@
+{
+  "Index" : 82,
+  "Name" : "White Serpent",
+  "Group" : "SerpentValley",
+  "FileName" : "82",
+  "RequiredMinLevel" : 21,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return the Collector in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

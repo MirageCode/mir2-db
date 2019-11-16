@@ -1,0 +1,25 @@
+{
+  "Index" : 41,
+  "FileName" : "BichonProvince/BichonWall/Solider-0",
+  "Name" : "Solider_Richard",
+  "MapIndex" : 1,
+  "Location" : {
+    "X" : 337,
+    "Y" : 254
+  },
+  "Rate" : 100,
+  "Image" : 52,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

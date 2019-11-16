@@ -1,0 +1,22 @@
+{
+  "Name" : "Curse",
+  "Spell" : "Curse",
+  "BaseCost" : 17,
+  "LevelCost" : 3,
+  "Icon" : 45,
+  "Level1" : 40,
+  "Level2" : 42,
+  "Level3" : 44,
+  "Need1" : 4000,
+  "Need2" : 6000,
+  "Need3" : 9000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 20,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

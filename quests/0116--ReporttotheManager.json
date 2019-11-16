@@ -1,0 +1,15 @@
+{
+  "Index" : 116,
+  "Name" : "Report to the Manager",
+  "Group" : "MongchonProvince",
+  "FileName" : "116",
+  "RequiredMinLevel" : 26,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 115,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Speak to SubjugationManager in BichonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

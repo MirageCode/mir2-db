@@ -1,0 +1,25 @@
+{
+  "Index" : 177,
+  "FileName" : "MongchonProvince/SabukWall/9Aup-0151",
+  "Name" : "Blacksmith_Carlos",
+  "MapIndex" : 246,
+  "Location" : {
+    "X" : 12,
+    "Y" : 10
+  },
+  "Rate" : 100,
+  "Image" : 0,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

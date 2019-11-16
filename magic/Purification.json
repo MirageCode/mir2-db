@@ -1,0 +1,22 @@
+{
+  "Name" : "Purification",
+  "Spell" : "Purification",
+  "BaseCost" : 14,
+  "LevelCost" : 2,
+  "Icon" : 39,
+  "Level1" : 30,
+  "Level2" : 32,
+  "Level3" : 35,
+  "Need1" : 3000,
+  "Need2" : 5000,
+  "Need3" : 8000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

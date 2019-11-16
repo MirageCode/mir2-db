@@ -1,0 +1,22 @@
+{
+  "Name" : "BattleCry",
+  "Spell" : "BattleCry",
+  "BaseCost" : 22,
+  "LevelCost" : 10,
+  "Icon" : 42,
+  "Level1" : 48,
+  "Level2" : 51,
+  "Level3" : 55,
+  "Need1" : 8000,
+  "Need2" : 11000,
+  "Need3" : 15000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 0
+}

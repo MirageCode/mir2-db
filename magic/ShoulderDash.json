@@ -1,0 +1,22 @@
+{
+  "Name" : "ShoulderDash",
+  "Spell" : "ShoulderDash",
+  "BaseCost" : 4,
+  "LevelCost" : 4,
+  "Icon" : 26,
+  "Level1" : 30,
+  "Level2" : 32,
+  "Level3" : 34,
+  "Need1" : 3000,
+  "Need2" : 4000,
+  "Need3" : 6000,
+  "DelayBase" : 2500,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 4,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,25 @@
+{
+  "Index" : 116,
+  "FileName" : "WoomyonWoods/TaoistVillage/MasterMK",
+  "Name" : "MasterMK_Deric",
+  "MapIndex" : 108,
+  "Location" : {
+    "X" : 165,
+    "Y" : 296
+  },
+  "Rate" : 100,
+  "Image" : 68,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

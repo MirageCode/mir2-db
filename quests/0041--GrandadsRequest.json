@@ -1,0 +1,15 @@
+{
+  "Index" : 41,
+  "Name" : "Grandads Request",
+  "Group" : "WoomyonWoods",
+  "FileName" : "41",
+  "RequiredMinLevel" : 12,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 40,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to BichonWall and Speak with Sarah 313:271",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "Rage",
+  "Spell" : "Rage",
+  "BaseCost" : 20,
+  "LevelCost" : 5,
+  "Icon" : 49,
+  "Level1" : 44,
+  "Level2" : 47,
+  "Level3" : 50,
+  "Need1" : 8000,
+  "Need2" : 14000,
+  "Need3" : 20000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

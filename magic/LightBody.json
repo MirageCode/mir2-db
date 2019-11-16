@@ -1,0 +1,22 @@
+{
+  "Name" : "LightBody",
+  "Spell" : "LightBody",
+  "BaseCost" : 11,
+  "LevelCost" : 2,
+  "Icon" : 68,
+  "Level1" : 27,
+  "Level2" : 29,
+  "Level3" : 32,
+  "Need1" : 5000,
+  "Need2" : 7000,
+  "Need3" : 10000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

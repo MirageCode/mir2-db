@@ -1,0 +1,22 @@
+{
+  "Name" : "SummonVampire",
+  "Spell" : "SummonVampire",
+  "BaseCost" : 10,
+  "LevelCost" : 5,
+  "Icon" : 99,
+  "Level1" : 28,
+  "Level2" : 33,
+  "Level3" : 41,
+  "Need1" : 2000,
+  "Need2" : 2700,
+  "Need3" : 7500,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

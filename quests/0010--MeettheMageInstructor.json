@@ -1,0 +1,15 @@
+{
+  "Index" : 10,
+  "Name" : "Meet the Mage Instructor",
+  "Group" : "BichonProvince",
+  "FileName" : "10",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 2,
+  "Type" : 0,
+  "GotoMessage" : "Speak with the MasterMage at 314:474",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

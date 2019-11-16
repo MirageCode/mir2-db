@@ -1,0 +1,22 @@
+{
+  "Name" : "CounterAttack",
+  "Spell" : "CounterAttack",
+  "BaseCost" : 12,
+  "LevelCost" : 4,
+  "Icon" : 72,
+  "Level1" : 47,
+  "Level2" : 51,
+  "Level3" : 55,
+  "Need1" : 7000,
+  "Need2" : 11000,
+  "Need3" : 15000,
+  "DelayBase" : 24000,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

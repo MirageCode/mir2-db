@@ -1,0 +1,25 @@
+{
+  "Index" : 241,
+  "FileName" : "WhiteValley/Encampment/Captain",
+  "Name" : "Captain_Andrew",
+  "MapIndex" : 366,
+  "Location" : {
+    "X" : 300,
+    "Y" : 219
+  },
+  "Rate" : 100,
+  "Image" : 177,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

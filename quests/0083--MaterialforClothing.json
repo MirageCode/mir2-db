@@ -1,0 +1,15 @@
+{
+  "Index" : 83,
+  "Name" : "Material for Clothing",
+  "Group" : "SerpentValley",
+  "FileName" : "83",
+  "RequiredMinLevel" : 21,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to TaoVillage and speak to Sam at 206:319",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

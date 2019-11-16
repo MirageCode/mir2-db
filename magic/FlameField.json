@@ -1,0 +1,22 @@
+{
+  "Name" : "FlameField",
+  "Spell" : "FlameField",
+  "BaseCost" : 45,
+  "LevelCost" : 8,
+  "Icon" : 44,
+  "Level1" : 42,
+  "Level2" : 43,
+  "Level3" : 45,
+  "Need1" : 6000,
+  "Need2" : 11000,
+  "Need3" : 16000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 25,
+  "PowerBonus" : 0,
+  "MPowerBase" : 100,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "Blizzard",
+  "Spell" : "Blizzard",
+  "BaseCost" : 65,
+  "LevelCost" : 10,
+  "Icon" : 51,
+  "Level1" : 44,
+  "Level2" : 47,
+  "Level3" : 50,
+  "Need1" : 8000,
+  "Need2" : 16000,
+  "Need3" : 24000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 20,
+  "PowerBonus" : 5,
+  "MPowerBase" : 30,
+  "MPowerBonus" : 10,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

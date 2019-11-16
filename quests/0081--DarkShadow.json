@@ -1,0 +1,15 @@
+{
+  "Index" : 81,
+  "Name" : "Dark Shadow",
+  "Group" : "SerpentValley",
+  "FileName" : "81",
+  "RequiredMinLevel" : 20,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 80,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Dr.Kim in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

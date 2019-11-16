@@ -1,0 +1,15 @@
+{
+  "Index" : 32,
+  "Name" : "Messenger",
+  "Group" : "SerpentValley",
+  "FileName" : "32",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 31,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver BluePill to Blacksmith Bradly",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

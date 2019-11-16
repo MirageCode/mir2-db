@@ -1,0 +1,15 @@
+{
+  "Index" : 30,
+  "Name" : "Lost Ring",
+  "Group" : "SerpentValley",
+  "FileName" : "30",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 29,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Blacksmith Bradly in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

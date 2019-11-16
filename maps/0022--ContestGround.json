@@ -1,0 +1,105 @@
+{
+  "Index" : 22,
+  "FileName" : "0137",
+  "Title" : "ContestGround",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : true,
+  "NoReconnect" : false,
+  "NoRandom" : true,
+  "NoEscape" : true,
+  "NoRecall" : true,
+  "NoDrug" : true,
+  "NoPosition" : true,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : true,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : true,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 18,
+        "Y" : 23
+      },
+      "Destination" : {
+        "X" : 416,
+        "Y" : 245
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 19,
+        "Y" : 22
+      },
+      "Destination" : {
+        "X" : 417,
+        "Y" : 244
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 1,
+      "Source" : {
+        "X" : 20,
+        "Y" : 21
+      },
+      "Destination" : {
+        "X" : 418,
+        "Y" : 243
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 23,
+      "Source" : {
+        "X" : 14,
+        "Y" : 16
+      },
+      "Destination" : {
+        "X" : 18,
+        "Y" : 21
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 23,
+      "Source" : {
+        "X" : 13,
+        "Y" : 17
+      },
+      "Destination" : {
+        "X" : 17,
+        "Y" : 22
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

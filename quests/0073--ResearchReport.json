@@ -1,0 +1,15 @@
+{
+  "Index" : 73,
+  "Name" : "Research Report",
+  "Group" : "WoomyonWoods",
+  "FileName" : "73",
+  "RequiredMinLevel" : 19,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 72,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver MobBlood to Dr.Kim in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "FlashDash",
+  "Spell" : "FlashDash",
+  "BaseCost" : 12,
+  "LevelCost" : 2,
+  "Icon" : 61,
+  "Level1" : 25,
+  "Level2" : 27,
+  "Level3" : 30,
+  "Need1" : 4000,
+  "Need2" : 7000,
+  "Need3" : 9000,
+  "DelayBase" : 200,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,25 @@
+{
+  "Index" : 185,
+  "FileName" : "MongchonProvince/SwampBones",
+  "Name" : "Bones",
+  "MapIndex" : 286,
+  "Location" : {
+    "X" : 117,
+    "Y" : 275
+  },
+  "Rate" : 100,
+  "Image" : 51,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 951,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

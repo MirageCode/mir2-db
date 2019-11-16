@@ -1,0 +1,25 @@
+{
+  "Index" : 254,
+  "FileName" : "GM/GM-Necklace",
+  "Name" : "GM_Necklace",
+  "MapIndex" : 384,
+  "Location" : {
+    "X" : 91,
+    "Y" : 96
+  },
+  "Rate" : 100,
+  "Image" : 6,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 952,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

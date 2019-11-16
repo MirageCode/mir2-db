@@ -1,0 +1,25 @@
+{
+  "Index" : 74,
+  "FileName" : "WoomyonWoods/14Wso-D2042",
+  "Name" : "Traveller_Soho",
+  "MapIndex" : 66,
+  "Location" : {
+    "X" : 114,
+    "Y" : 155
+  },
+  "Rate" : 100,
+  "Image" : 21,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

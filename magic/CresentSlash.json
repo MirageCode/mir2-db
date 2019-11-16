@@ -1,0 +1,22 @@
+{
+  "Name" : "CresentSlash",
+  "Spell" : "CrescentSlash",
+  "BaseCost" : 19,
+  "LevelCost" : 5,
+  "Icon" : 71,
+  "Level1" : 50,
+  "Level2" : 53,
+  "Level3" : 56,
+  "Need1" : 12000,
+  "Need2" : 16000,
+  "Need3" : 24000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.40000000596046448,
+  "Range" : 9
+}

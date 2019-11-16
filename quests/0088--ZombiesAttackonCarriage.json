@@ -1,0 +1,15 @@
+{
+  "Index" : 88,
+  "Name" : "Zombies Attack on Carriage",
+  "Group" : "TaoVillage",
+  "FileName" : "88",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 87,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to LeadTrainer at 227:269 ",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

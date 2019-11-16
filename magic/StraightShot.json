@@ -1,0 +1,22 @@
+{
+  "Name" : "StraightShot",
+  "Spell" : "StraightShot",
+  "BaseCost" : 3,
+  "LevelCost" : 2,
+  "Icon" : 89,
+  "Level1" : 9,
+  "Level2" : 12,
+  "Level3" : 16,
+  "Need1" : 350,
+  "Need2" : 750,
+  "Need3" : 1400,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 3,
+  "PowerBonus" : 0,
+  "MPowerBase" : 8,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 109,
+  "Name" : "Find More Antique Books",
+  "Group" : "MongchonProvince",
+  "FileName" : "109",
+  "RequiredMinLevel" : 25,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 108,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return the Books back to Collector in MongchonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

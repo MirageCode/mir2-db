@@ -1,0 +1,22 @@
+{
+  "Name" : "Thrusting",
+  "Spell" : "Thrusting",
+  "BaseCost" : 0,
+  "LevelCost" : 0,
+  "Icon" : 11,
+  "Level1" : 22,
+  "Level2" : 24,
+  "Level3" : 27,
+  "Need1" : 2000,
+  "Need2" : 3500,
+  "Need3" : 6000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 0.25,
+  "MultiplierBonus" : 0.25,
+  "Range" : 9
+}

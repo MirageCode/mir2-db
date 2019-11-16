@@ -1,0 +1,15 @@
+{
+  "Index" : 69,
+  "Name" : "Find my Friend",
+  "Group" : "WoomyonWoods",
+  "FileName" : "69",
+  "RequiredMinLevel" : 19,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 68,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Search for Helens friend Soho in InsectCave",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

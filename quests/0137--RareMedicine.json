@@ -1,0 +1,15 @@
+{
+  "Index" : 137,
+  "Name" : "Rare Medicine",
+  "Group" : "MongchonProvince",
+  "FileName" : "137",
+  "RequiredMinLevel" : 40,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Kevin in MongchonWall at 346:334",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

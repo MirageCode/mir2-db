@@ -1,0 +1,22 @@
+{
+  "Name" : "FrostCrunch",
+  "Spell" : "FrostCrunch",
+  "BaseCost" : 15,
+  "LevelCost" : 3,
+  "Icon" : 38,
+  "Level1" : 28,
+  "Level2" : 30,
+  "Level3" : 33,
+  "Need1" : 3000,
+  "Need2" : 5000,
+  "Need3" : 8000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 12,
+  "PowerBonus" : 0,
+  "MPowerBase" : 12,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

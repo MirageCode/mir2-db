@@ -1,0 +1,15 @@
+{
+  "Index" : 113,
+  "Name" : "Insomnia",
+  "Group" : "MongchonProvince",
+  "FileName" : "113",
+  "RequiredMinLevel" : 26,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Jessica in MongchonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

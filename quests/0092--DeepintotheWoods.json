@@ -1,0 +1,15 @@
+{
+  "Index" : 92,
+  "Name" : "Deep into the Woods",
+  "Group" : "TaoVillage",
+  "FileName" : "92",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Jerry in TaoVillage",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

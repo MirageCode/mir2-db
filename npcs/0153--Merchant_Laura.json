@@ -1,0 +1,25 @@
+{
+  "Index" : 153,
+  "FileName" : "MongchonProvince/MudWall/JewelersBracelet-0149",
+  "Name" : "Merchant_Laura",
+  "MapIndex" : 178,
+  "Location" : {
+    "X" : 11,
+    "Y" : 18
+  },
+  "Rate" : 100,
+  "Image" : 4,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

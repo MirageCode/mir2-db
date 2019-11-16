@@ -1,0 +1,15 @@
+{
+  "Index" : 16,
+  "Name" : "Meet the Assassin Instructor",
+  "Group" : "BichonProvince",
+  "FileName" : "16",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 8,
+  "Type" : 0,
+  "GotoMessage" : "Speak with Assassin Cloud at 101:411",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

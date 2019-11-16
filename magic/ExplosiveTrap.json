@@ -1,0 +1,22 @@
+{
+  "Name" : "ExplosiveTrap",
+  "Spell" : "ExplosiveTrap",
+  "BaseCost" : 10,
+  "LevelCost" : 3,
+  "Icon" : 91,
+  "Level1" : 22,
+  "Level2" : 25,
+  "Level3" : 30,
+  "Need1" : 2000,
+  "Need2" : 3500,
+  "Need3" : 5000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 15,
+  "PowerBonus" : 0,
+  "MPowerBase" : 15,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

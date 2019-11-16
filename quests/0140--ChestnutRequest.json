@@ -1,0 +1,15 @@
+{
+  "Index" : 140,
+  "Name" : "Chestnut Request",
+  "Group" : "BichonProvince",
+  "FileName" : "140",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 20,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 2,
+  "GotoMessage" : "Return to BichonWall Board.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

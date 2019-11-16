@@ -1,0 +1,353 @@
+{
+  "Index" : 378,
+  "FileName" : "SnowCave_2F",
+  "Title" : "SnowCavern_2F",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : true,
+  "NoEscape" : false,
+  "NoRecall" : true,
+  "NoDrug" : false,
+  "NoPosition" : true,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 32,
+        "Y" : 267
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 33,
+        "Y" : 268
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 34,
+        "Y" : 269
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 35,
+        "Y" : 270
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 35,
+        "Y" : 269
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 34,
+        "Y" : 268
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 33,
+        "Y" : 267
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 32,
+        "Y" : 266
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 33,
+        "Y" : 266
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 34,
+        "Y" : 267
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 35,
+        "Y" : 268
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 35,
+        "Y" : 267
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 36,
+        "Y" : 266
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 33,
+        "Y" : 265
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 34,
+        "Y" : 264
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 377,
+      "Source" : {
+        "X" : 35,
+        "Y" : 265
+      },
+      "Destination" : {
+        "X" : 198,
+        "Y" : 80
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 486,
+      "Location" : {
+        "X" : 145,
+        "Y" : 155
+      },
+      "Count" : 40,
+      "Spread" : 160,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 5921,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 487,
+      "Location" : {
+        "X" : 145,
+        "Y" : 155
+      },
+      "Count" : 40,
+      "Spread" : 160,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 5922,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 488,
+      "Location" : {
+        "X" : 145,
+        "Y" : 155
+      },
+      "Count" : 40,
+      "Spread" : 160,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 5923,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 489,
+      "Location" : {
+        "X" : 145,
+        "Y" : 155
+      },
+      "Count" : 40,
+      "Spread" : 160,
+      "Delay" : 8,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 5924,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 490,
+      "Location" : {
+        "X" : 145,
+        "Y" : 155
+      },
+      "Count" : 40,
+      "Spread" : 160,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 5925,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 491,
+      "Location" : {
+        "X" : 145,
+        "Y" : 155
+      },
+      "Count" : 40,
+      "Spread" : 160,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 5926,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 492,
+      "Location" : {
+        "X" : 145,
+        "Y" : 155
+      },
+      "Count" : 40,
+      "Spread" : 160,
+      "Delay" : 10,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 5927,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

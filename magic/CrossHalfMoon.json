@@ -1,0 +1,22 @@
+{
+  "Name" : "CrossHalfMoon",
+  "Spell" : "CrossHalfMoon",
+  "BaseCost" : 6,
+  "LevelCost" : 0,
+  "Icon" : 33,
+  "Level1" : 38,
+  "Level2" : 40,
+  "Level3" : 42,
+  "Need1" : 7000,
+  "Need2" : 11000,
+  "Need3" : 16000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 0.40000000596046448,
+  "MultiplierBonus" : 0.10000000149011612,
+  "Range" : 9
+}

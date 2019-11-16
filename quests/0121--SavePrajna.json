@@ -1,0 +1,15 @@
+{
+  "Index" : 121,
+  "Name" : "Save Prajna",
+  "Group" : "PrajnaIsland",
+  "FileName" : "121",
+  "RequiredMinLevel" : 28,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Inspector in PrajnaIsland",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

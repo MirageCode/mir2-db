@@ -1,0 +1,22 @@
+{
+  "Name" : "Revelation",
+  "Spell" : "Revelation",
+  "BaseCost" : 4,
+  "LevelCost" : 4,
+  "Icon" : 27,
+  "Level1" : 23,
+  "Level2" : 25,
+  "Level3" : 28,
+  "Need1" : 1500,
+  "Need2" : 2500,
+  "Need3" : 4000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "Fury",
+  "Spell" : "Fury",
+  "BaseCost" : 10,
+  "LevelCost" : 4,
+  "Icon" : 76,
+  "Level1" : 45,
+  "Level2" : 48,
+  "Level3" : 51,
+  "Need1" : 8000,
+  "Need2" : 14000,
+  "Need3" : 20000,
+  "DelayBase" : 600000,
+  "DelayReduction" : 120000,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

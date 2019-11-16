@@ -1,0 +1,25 @@
+{
+  "Index" : 193,
+  "FileName" : "PrajnaIsland/7Pist",
+  "Name" : "Merchant_Bart",
+  "MapIndex" : 289,
+  "Location" : {
+    "X" : 148,
+    "Y" : 352
+  },
+  "Rate" : 100,
+  "Image" : 3,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 139,
+  "Name" : "Dangerous as ever",
+  "Group" : "WasteLands",
+  "FileName" : "139",
+  "RequiredMinLevel" : 45,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 138,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Excavenger in WasteLand 265:238",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

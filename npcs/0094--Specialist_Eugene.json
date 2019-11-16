@@ -1,0 +1,25 @@
+{
+  "Index" : 94,
+  "FileName" : "WoomyonWoods/TaoistVillage/4Wdm",
+  "Name" : "Specialist_Eugene",
+  "MapIndex" : 114,
+  "Location" : {
+    "X" : 12,
+    "Y" : 7
+  },
+  "Rate" : 100,
+  "Image" : 22,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

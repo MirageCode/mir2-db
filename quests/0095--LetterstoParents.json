@@ -1,0 +1,15 @@
+{
+  "Index" : 95,
+  "Name" : "Letters to Parents",
+  "Group" : "TaoVillage",
+  "FileName" : "95",
+  "RequiredMinLevel" : 23,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Deliver SkysLetter to Sir.Mogu in BichonWall Tavern",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

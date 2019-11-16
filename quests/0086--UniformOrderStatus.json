@@ -1,0 +1,15 @@
+{
+  "Index" : 86,
+  "Name" : "Uniform Order Status",
+  "Group" : "TaoVillage",
+  "FileName" : "86",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to BichonWall Drapery Shop and speak with Ann",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

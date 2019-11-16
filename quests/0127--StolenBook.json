@@ -1,0 +1,15 @@
+{
+  "Index" : 127,
+  "Name" : "Stolen Book",
+  "Group" : "TaoVillage",
+  "FileName" : "127",
+  "RequiredMinLevel" : 31,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 126,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to LeadTrainer in TaoVillage",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

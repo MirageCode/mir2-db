@@ -1,0 +1,22 @@
+{
+  "Name" : "Repulsion",
+  "Spell" : "Repulsion",
+  "BaseCost" : 2,
+  "LevelCost" : 2,
+  "Icon" : 7,
+  "Level1" : 12,
+  "Level2" : 15,
+  "Level3" : 19,
+  "Need1" : 500,
+  "Need2" : 1300,
+  "Need3" : 2200,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 4,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

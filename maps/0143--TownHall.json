@@ -1,0 +1,169 @@
+{
+  "Index" : 143,
+  "FileName" : "hyunwolboss",
+  "Title" : "TownHall",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : true,
+  "NoRandom" : true,
+  "NoEscape" : false,
+  "NoRecall" : true,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "hyunwol3",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 50,
+        "Y" : 61
+      },
+      "Destination" : {
+        "X" : 44,
+        "Y" : 60
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 50,
+        "Y" : 60
+      },
+      "Destination" : {
+        "X" : 44,
+        "Y" : 60
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 142,
+      "Source" : {
+        "X" : 49,
+        "Y" : 61
+      },
+      "Destination" : {
+        "X" : 44,
+        "Y" : 60
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [{
+      "MonsterIndex" : 448,
+      "Location" : {
+        "X" : 40,
+        "Y" : 40
+      },
+      "Count" : 2,
+      "Spread" : 30,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1875,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 449,
+      "Location" : {
+        "X" : 40,
+        "Y" : 40
+      },
+      "Count" : 2,
+      "Spread" : 30,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1876,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 450,
+      "Location" : {
+        "X" : 40,
+        "Y" : 40
+      },
+      "Count" : 2,
+      "Spread" : 30,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1877,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 451,
+      "Location" : {
+        "X" : 40,
+        "Y" : 40
+      },
+      "Count" : 2,
+      "Spread" : 30,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1878,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 452,
+      "Location" : {
+        "X" : 40,
+        "Y" : 40
+      },
+      "Count" : 2,
+      "Spread" : 30,
+      "Delay" : 40,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1879,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }, {
+      "MonsterIndex" : 453,
+      "Location" : {
+        "X" : 35,
+        "Y" : 35
+      },
+      "Count" : 1,
+      "Spread" : 1,
+      "Delay" : 120,
+      "RandomDelay" : 0,
+      "Direction" : 0,
+      "RoutePath" : "",
+      "RespawnIndex" : 1880,
+      "SaveRespawnTime" : false,
+      "RespawnTicks" : 0
+    }],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

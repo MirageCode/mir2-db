@@ -1,0 +1,15 @@
+{
+  "Index" : 120,
+  "Name" : "CorpsFlower",
+  "Group" : "BichonProvince",
+  "FileName" : "120",
+  "RequiredMinLevel" : 28,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Samuel in BichonWall after you retrieve all CorpsFlowers",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 65,
+  "Name" : "Revenge on Zombies",
+  "Group" : "BichonProvince",
+  "FileName" : "65",
+  "RequiredMinLevel" : 18,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Eddie in BichonWall at 298:317",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

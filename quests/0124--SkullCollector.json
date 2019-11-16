@@ -1,0 +1,15 @@
+{
+  "Index" : 124,
+  "Name" : "Skull Collector",
+  "Group" : "PrajnaIsland",
+  "FileName" : "124",
+  "RequiredMinLevel" : 29,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Collector once retrieved all the Skulls",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

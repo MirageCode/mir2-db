@@ -1,0 +1,15 @@
+{
+  "Index" : 62,
+  "Name" : "Exterminate",
+  "Group" : "WoomyonWoods",
+  "FileName" : "62",
+  "RequiredMinLevel" : 18,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 61,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MasterShok in WoomyonWoods",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

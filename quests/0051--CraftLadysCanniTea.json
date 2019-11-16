@@ -1,0 +1,15 @@
+{
+  "Index" : 51,
+  "Name" : "CraftLady's CanniTea",
+  "Group" : "BichonProvince",
+  "FileName" : "51",
+  "RequiredMinLevel" : 16,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Speak with CraftsLady in BichWall ",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

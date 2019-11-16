@@ -1,0 +1,92 @@
+{
+  "Index" : 175,
+  "FileName" : "0145",
+  "Title" : "Inn",
+  "MiniMap" : 0,
+  "BigMap" : 0,
+  "Music" : 0,
+  "Light" : "Day",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : false,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : true,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : true,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 172,
+      "Source" : {
+        "X" : 5,
+        "Y" : 16
+      },
+      "Destination" : {
+        "X" : 304,
+        "Y" : 369
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 172,
+      "Source" : {
+        "X" : 6,
+        "Y" : 17
+      },
+      "Destination" : {
+        "X" : 305,
+        "Y" : 370
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 176,
+      "Source" : {
+        "X" : 8,
+        "Y" : 2
+      },
+      "Destination" : {
+        "X" : 7,
+        "Y" : 7
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 176,
+      "Source" : {
+        "X" : 9,
+        "Y" : 3
+      },
+      "Destination" : {
+        "X" : 8,
+        "Y" : 8
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

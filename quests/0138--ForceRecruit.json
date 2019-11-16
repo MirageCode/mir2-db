@@ -1,0 +1,15 @@
+{
+  "Index" : 138,
+  "Name" : "Force Recruit",
+  "Group" : "WasteLands",
+  "FileName" : "138",
+  "RequiredMinLevel" : 45,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Excavenger in WasteLand 265:238",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "SummonHolyDeva",
+  "Spell" : "SummonHolyDeva",
+  "BaseCost" : 28,
+  "LevelCost" : 4,
+  "Icon" : 40,
+  "Level1" : 38,
+  "Level2" : 41,
+  "Level3" : 43,
+  "Need1" : 4000,
+  "Need2" : 6000,
+  "Need3" : 9000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

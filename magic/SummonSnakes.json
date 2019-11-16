@@ -1,0 +1,22 @@
+{
+  "Name" : "SummonSnakes",
+  "Spell" : "SummonSnakes",
+  "BaseCost" : 10,
+  "LevelCost" : 5,
+  "Icon" : 104,
+  "Level1" : 46,
+  "Level2" : 51,
+  "Level3" : 54,
+  "Need1" : 14000,
+  "Need2" : 17000,
+  "Need3" : 20000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

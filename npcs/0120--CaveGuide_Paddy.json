@@ -1,0 +1,25 @@
+{
+  "Index" : 120,
+  "FileName" : "WoomyonWoods/CaveGuideTV",
+  "Name" : "CaveGuide_Paddy",
+  "MapIndex" : 108,
+  "Location" : {
+    "X" : 119,
+    "Y" : 293
+  },
+  "Rate" : 100,
+  "Image" : 18,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

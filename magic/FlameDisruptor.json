@@ -1,0 +1,22 @@
+{
+  "Name" : "FlameDisruptor",
+  "Spell" : "FlameDisruptor",
+  "BaseCost" : 28,
+  "LevelCost" : 3,
+  "Icon" : 34,
+  "Level1" : 38,
+  "Level2" : 40,
+  "Level3" : 42,
+  "Need1" : 5000,
+  "Need2" : 9000,
+  "Need3" : 14000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 9,
+  "PowerBonus" : 0,
+  "MPowerBase" : 15,
+  "MPowerBonus" : 20,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

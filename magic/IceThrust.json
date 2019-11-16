@@ -1,0 +1,22 @@
+{
+  "Name" : "IceThrust",
+  "Spell" : "IceThrust",
+  "BaseCost" : 100,
+  "LevelCost" : 20,
+  "Icon" : 56,
+  "Level1" : 53,
+  "Level2" : 56,
+  "Level3" : 59,
+  "Need1" : 17000,
+  "Need2" : 22000,
+  "Need3" : 27000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 50,
+  "PowerBonus" : 0,
+  "MPowerBase" : 100,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

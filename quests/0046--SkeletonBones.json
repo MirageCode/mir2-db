@@ -1,0 +1,15 @@
+{
+  "Index" : 46,
+  "Name" : "Skeleton Bones",
+  "Group" : "BichonProvince",
+  "FileName" : "46",
+  "RequiredMinLevel" : 14,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MirGuide Peter in BichonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

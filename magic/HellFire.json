@@ -1,0 +1,22 @@
+{
+  "Name" : "HellFire",
+  "Spell" : "HellFire",
+  "BaseCost" : 10,
+  "LevelCost" : 3,
+  "Icon" : 8,
+  "Level1" : 16,
+  "Level2" : 20,
+  "Level3" : 24,
+  "Need1" : 700,
+  "Need2" : 2700,
+  "Need3" : 3500,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 6,
+  "PowerBonus" : 0,
+  "MPowerBase" : 14,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

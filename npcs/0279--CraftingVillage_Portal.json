@@ -1,0 +1,25 @@
+{
+  "Index" : 279,
+  "FileName" : "CraftingPortal/MudWall",
+  "Name" : "CraftingVillage_Portal",
+  "MapIndex" : 172,
+  "Location" : {
+    "X" : 293,
+    "Y" : 371
+  },
+  "Rate" : 100,
+  "Image" : 0,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 545,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

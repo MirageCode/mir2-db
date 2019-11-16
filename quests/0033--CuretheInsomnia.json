@@ -1,0 +1,15 @@
+{
+  "Index" : 33,
+  "Name" : "Cure the Insomnia",
+  "Group" : "SerpentValley",
+  "FileName" : "33",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Robert at 505:479",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

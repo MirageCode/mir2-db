@@ -1,0 +1,15 @@
+{
+  "Index" : 84,
+  "Name" : "Missing Materials",
+  "Group" : "TaoVillage",
+  "FileName" : "84",
+  "RequiredMinLevel" : 21,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 83,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Sam in TaoVillage with the Materials",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

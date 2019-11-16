@@ -1,0 +1,22 @@
+{
+  "Name" : "FlamingSword",
+  "Spell" : "FlamingSword",
+  "BaseCost" : 7,
+  "LevelCost" : 0,
+  "Icon" : 25,
+  "Level1" : 35,
+  "Level2" : 37,
+  "Level3" : 40,
+  "Need1" : 2000,
+  "Need2" : 4000,
+  "Need3" : 6000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.3999999761581421,
+  "MultiplierBonus" : 0.40000000596046448,
+  "Range" : 9
+}

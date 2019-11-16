@@ -1,0 +1,15 @@
+{
+  "Index" : 8,
+  "Name" : "Test for the Fencing Skill",
+  "Group" : "BichonProvince",
+  "FileName" : "8",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 7,
+  "RequiredClass" : 1,
+  "Type" : 0,
+  "GotoMessage" : "Return to Master_Wa at 110:317",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

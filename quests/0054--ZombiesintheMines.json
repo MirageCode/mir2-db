@@ -1,0 +1,15 @@
+{
+  "Index" : 54,
+  "Name" : "Zombies in the Mines",
+  "Group" : "BichonProvince",
+  "FileName" : "54",
+  "RequiredMinLevel" : 17,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Blacksmith Bill in BichonWall",
+  "KillMessage" : "Kill Zombies in BichonDeadMines",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

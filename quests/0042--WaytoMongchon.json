@@ -1,0 +1,15 @@
+{
+  "Index" : 42,
+  "Name" : "Way to Mongchon",
+  "Group" : "BichonProvince",
+  "FileName" : "42",
+  "RequiredMinLevel" : 13,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Bull in BichonWal 374:296",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

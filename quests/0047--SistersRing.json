@@ -1,0 +1,15 @@
+{
+  "Index" : 47,
+  "Name" : "Sister's Ring",
+  "Group" : "BichonProvince",
+  "FileName" : "47",
+  "RequiredMinLevel" : 14,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Diana in BichonWall 306:276",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

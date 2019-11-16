@@ -1,0 +1,22 @@
+{
+  "Name" : "Hemorrhage",
+  "Spell" : "Hemorrhage",
+  "BaseCost" : 0,
+  "LevelCost" : 0,
+  "Icon" : 75,
+  "Level1" : 47,
+  "Level2" : 51,
+  "Level3" : 55,
+  "Need1" : 9000,
+  "Need2" : 15000,
+  "Need3" : 21000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 0.20000000298023224,
+  "MultiplierBonus" : 0.05000000074505806,
+  "Range" : 9
+}

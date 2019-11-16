@@ -1,0 +1,15 @@
+{
+  "Index" : 130,
+  "Name" : "Wanted!",
+  "Group" : "TaoVillage",
+  "FileName" : "130",
+  "RequiredMinLevel" : 34,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Investigator in TaoVillage",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

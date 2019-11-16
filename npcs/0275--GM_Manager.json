@@ -1,0 +1,25 @@
+{
+  "Index" : 275,
+  "FileName" : "GM/GM-Manager",
+  "Name" : "GM_Manager",
+  "MapIndex" : 384,
+  "Location" : {
+    "X" : 100,
+    "Y" : 94
+  },
+  "Rate" : 100,
+  "Image" : 0,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 952,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

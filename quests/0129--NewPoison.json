@@ -1,0 +1,15 @@
+{
+  "Index" : 129,
+  "Name" : "New Poison",
+  "Group" : "TaoVillage",
+  "FileName" : "129",
+  "RequiredMinLevel" : 32,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Janey in TaoVillage 179:296",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

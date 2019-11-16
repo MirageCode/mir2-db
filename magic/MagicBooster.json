@@ -1,0 +1,22 @@
+{
+  "Name" : "MagicBooster",
+  "Spell" : "MagicBooster",
+  "BaseCost" : 150,
+  "LevelCost" : 15,
+  "Icon" : 73,
+  "Level1" : 47,
+  "Level2" : 49,
+  "Level3" : 52,
+  "Need1" : 12000,
+  "Need2" : 18000,
+  "Need3" : 24000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

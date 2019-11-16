@@ -1,0 +1,25 @@
+{
+  "Index" : 265,
+  "FileName" : "GM/GM-Grocery",
+  "Name" : "GM_Grocery",
+  "MapIndex" : 384,
+  "Location" : {
+    "X" : 106,
+    "Y" : 99
+  },
+  "Rate" : 100,
+  "Image" : 1,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 952,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

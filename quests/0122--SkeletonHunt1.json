@@ -1,0 +1,15 @@
+{
+  "Index" : 122,
+  "Name" : "Skeleton Hunt 1",
+  "Group" : "PrajnaIsland",
+  "FileName" : "122",
+  "RequiredMinLevel" : 28,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 121,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MirGuide Edward in PrajnaIsland",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

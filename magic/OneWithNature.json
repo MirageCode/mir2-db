@@ -1,0 +1,22 @@
+{
+  "Name" : "OneWithNature",
+  "Spell" : "OneWithNature",
+  "BaseCost" : 80,
+  "LevelCost" : 15,
+  "Icon" : 106,
+  "Level1" : 50,
+  "Level2" : 53,
+  "Level3" : 56,
+  "Need1" : 17000,
+  "Need2" : 19000,
+  "Need3" : 24000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 30,
+  "PowerBonus" : 20,
+  "MPowerBase" : 75,
+  "MPowerBonus" : 35,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

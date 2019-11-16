@@ -1,0 +1,15 @@
+{
+  "Index" : 29,
+  "Name" : "Deliver Repair Oil",
+  "Group" : "BichonProvince",
+  "FileName" : "29",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to SerpentValley and Deliver to Bradly at 517:492 ",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

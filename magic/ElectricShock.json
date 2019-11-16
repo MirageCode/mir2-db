@@ -1,0 +1,22 @@
+{
+  "Name" : "ElectricShock",
+  "Spell" : "ElectricShock",
+  "BaseCost" : 3,
+  "LevelCost" : 1,
+  "Icon" : 19,
+  "Level1" : 13,
+  "Level2" : 18,
+  "Level3" : 24,
+  "Need1" : 530,
+  "Need2" : 1100,
+  "Need3" : 2200,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

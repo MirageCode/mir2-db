@@ -1,0 +1,15 @@
+{
+  "Index" : 136,
+  "Name" : "Shipping Relics",
+  "Group" : "MongchonProvince",
+  "FileName" : "136",
+  "RequiredMinLevel" : 39,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 135,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the Collector in MongchonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

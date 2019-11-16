@@ -1,0 +1,25 @@
+{
+  "Index" : 140,
+  "FileName" : "SerpentValley/OldSkullSDM2",
+  "Name" : "OldSkull",
+  "MapIndex" : 150,
+  "Location" : {
+    "X" : 97,
+    "Y" : 320
+  },
+  "Rate" : 100,
+  "Image" : 51,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

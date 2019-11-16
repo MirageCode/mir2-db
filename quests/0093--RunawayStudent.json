@@ -1,0 +1,15 @@
+{
+  "Index" : 93,
+  "Name" : "Runaway Student",
+  "Group" : "TaoVillage",
+  "FileName" : "93",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Search for the missing Student in TreePath",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

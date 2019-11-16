@@ -1,0 +1,15 @@
+{
+  "Index" : 35,
+  "Name" : "SerpentValley",
+  "Group" : "BichonProvince",
+  "FileName" : "35",
+  "RequiredMinLevel" : 10,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 27,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to SerpentValley and Speak to the InnKeeper",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,25 @@
+{
+  "Index" : 281,
+  "FileName" : "CraftingPortal/Prajna",
+  "Name" : "CraftingVillage_Portal",
+  "MapIndex" : 289,
+  "Location" : {
+    "X" : 140,
+    "Y" : 324
+  },
+  "Rate" : 100,
+  "Image" : 0,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 547,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

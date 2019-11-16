@@ -1,0 +1,22 @@
+{
+  "Name" : "BindingShot",
+  "Spell" : "BindingShot",
+  "BaseCost" : 7,
+  "LevelCost" : 3,
+  "Icon" : 97,
+  "Level1" : 35,
+  "Level2" : 39,
+  "Level3" : 42,
+  "Need1" : 400,
+  "Need2" : 7000,
+  "Need3" : 9500,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

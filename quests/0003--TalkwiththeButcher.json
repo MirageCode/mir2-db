@@ -1,0 +1,15 @@
+{
+  "Index" : 3,
+  "Name" : "Talk with the Butcher",
+  "Group" : "BichonProvince",
+  "FileName" : "3",
+  "RequiredMinLevel" : 1,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 2,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Speak to Butcher John at 293:603",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

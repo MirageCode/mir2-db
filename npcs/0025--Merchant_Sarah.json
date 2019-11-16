@@ -1,0 +1,25 @@
+{
+  "Index" : 25,
+  "FileName" : "BichonProvince/BichonWall/Butcher-0",
+  "Name" : "Merchant_Sarah",
+  "MapIndex" : 1,
+  "Location" : {
+    "X" : 313,
+    "Y" : 271
+  },
+  "Rate" : 100,
+  "Image" : 4,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

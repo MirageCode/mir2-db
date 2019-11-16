@@ -1,0 +1,22 @@
+{
+  "Name" : "SoulShield",
+  "Spell" : "SoulShield",
+  "BaseCost" : 2,
+  "LevelCost" : 2,
+  "Icon" : 13,
+  "Level1" : 22,
+  "Level2" : 24,
+  "Level3" : 26,
+  "Need1" : 2000,
+  "Need2" : 3500,
+  "Need3" : 7000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

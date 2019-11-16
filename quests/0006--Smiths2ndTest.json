@@ -1,0 +1,15 @@
+{
+  "Index" : 6,
+  "Name" : "Smith's 2nd Test",
+  "Group" : "BichonProvince",
+  "FileName" : "6",
+  "RequiredMinLevel" : 1,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 5,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Blacksmith Smith at 297:612",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,25 @@
+{
+  "Index" : 137,
+  "FileName" : "SerpentValley/VulnerableSon-2",
+  "Name" : "VulnerableSon_Alfie",
+  "MapIndex" : 144,
+  "Location" : {
+    "X" : 562,
+    "Y" : 172
+  },
+  "Rate" : 100,
+  "Image" : 25,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

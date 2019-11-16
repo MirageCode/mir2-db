@@ -1,0 +1,22 @@
+{
+  "Name" : "LionRoar",
+  "Spell" : "LionRoar",
+  "BaseCost" : 14,
+  "LevelCost" : 4,
+  "Icon" : 42,
+  "Level1" : 36,
+  "Level2" : 39,
+  "Level3" : 41,
+  "Need1" : 5000,
+  "Need2" : 8000,
+  "Need3" : 12000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

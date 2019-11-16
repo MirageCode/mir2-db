@@ -1,0 +1,22 @@
+{
+  "Name" : "PoisonCloud",
+  "Spell" : "PoisonCloud",
+  "BaseCost" : 30,
+  "LevelCost" : 5,
+  "Icon" : 54,
+  "Level1" : 43,
+  "Level2" : 45,
+  "Level3" : 48,
+  "Need1" : 4000,
+  "Need2" : 8000,
+  "Need3" : 12000,
+  "DelayBase" : 18000,
+  "DelayReduction" : 2000,
+  "PowerBase" : 20,
+  "PowerBonus" : 0,
+  "MPowerBase" : 40,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

@@ -1,0 +1,25 @@
+{
+  "Index" : 240,
+  "FileName" : "WhiteValley/Encampment/Fisheries",
+  "Name" : "FishMonger_Laura",
+  "MapIndex" : 368,
+  "Location" : {
+    "X" : 23,
+    "Y" : 20
+  },
+  "Rate" : 100,
+  "Image" : 180,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

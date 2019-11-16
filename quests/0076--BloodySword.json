@@ -1,0 +1,15 @@
+{
+  "Index" : 76,
+  "Name" : "Bloody Sword",
+  "Group" : "SerpentValley",
+  "FileName" : "76",
+  "RequiredMinLevel" : 20,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Blacksmith Bradly in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

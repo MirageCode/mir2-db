@@ -1,0 +1,25 @@
+{
+  "Index" : 159,
+  "FileName" : "MongchonProvince/MudWall/Potion-0160",
+  "Name" : "Merchant_Raymond",
+  "MapIndex" : 181,
+  "Location" : {
+    "X" : 5,
+    "Y" : 8
+  },
+  "Rate" : 100,
+  "Image" : 1,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 27,
+  "Name" : "Errands",
+  "Group" : "BichonProvince",
+  "FileName" : "27",
+  "RequiredMinLevel" : 9,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 26,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Speak with MongchonScout at the Tavern 290:293",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

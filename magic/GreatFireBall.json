@@ -1,0 +1,22 @@
+{
+  "Name" : "GreatFireBall",
+  "Spell" : "GreatFireBall",
+  "BaseCost" : 5,
+  "LevelCost" : 1,
+  "Icon" : 4,
+  "Level1" : 15,
+  "Level2" : 18,
+  "Level3" : 21,
+  "Need1" : 2000,
+  "Need2" : 2700,
+  "Need3" : 3500,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 10,
+  "PowerBonus" : 0,
+  "MPowerBase" : 6,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

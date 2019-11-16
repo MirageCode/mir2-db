@@ -1,0 +1,15 @@
+{
+  "Index" : 114,
+  "Name" : "Threats to Mongchon",
+  "Group" : "MongchonProvince",
+  "FileName" : "114",
+  "RequiredMinLevel" : 26,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MongchonDelegate in MongchonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

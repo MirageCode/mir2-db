@@ -1,0 +1,15 @@
+{
+  "Index" : 148,
+  "Name" : "Holy Sword Quest",
+  "Group" : "HolySword Quest",
+  "FileName" : "148",
+  "RequiredMinLevel" : 35,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 147,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Master Thunderman for further information.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

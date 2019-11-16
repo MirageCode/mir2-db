@@ -1,0 +1,15 @@
+{
+  "Index" : 89,
+  "Name" : "Zombies Hunt",
+  "Group" : "TaoVillage",
+  "FileName" : "89",
+  "RequiredMinLevel" : 22,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 88,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to LeadTrainer in TaoVillage 227:269",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

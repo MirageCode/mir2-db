@@ -1,0 +1,25 @@
+{
+  "Index" : 280,
+  "FileName" : "CraftingPortal/CastleGI",
+  "Name" : "CraftingVillage_Portal",
+  "MapIndex" : 77,
+  "Location" : {
+    "X" : 222,
+    "Y" : 195
+  },
+  "Rate" : 100,
+  "Image" : 0,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 546,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

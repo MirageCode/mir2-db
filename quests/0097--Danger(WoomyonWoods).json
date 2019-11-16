@@ -1,0 +1,15 @@
+{
+  "Index" : 97,
+  "Name" : "Danger (WoomyonWoods)",
+  "Group" : "WoomyonWoods",
+  "FileName" : "97",
+  "RequiredMinLevel" : 23,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to WoomyonWoods and Warn SubjugationLead.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

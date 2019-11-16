@@ -1,0 +1,22 @@
+{
+  "Name" : "DoubleSlash",
+  "Spell" : "DoubleSlash",
+  "BaseCost" : 2,
+  "LevelCost" : 1,
+  "Icon" : 59,
+  "Level1" : 15,
+  "Level2" : 17,
+  "Level3" : 19,
+  "Need1" : 700,
+  "Need2" : 1500,
+  "Need3" : 2200,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 0.80000001192092896,
+  "MultiplierBonus" : 0.10000000149011612,
+  "Range" : 9
+}

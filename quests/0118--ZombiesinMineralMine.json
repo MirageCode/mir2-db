@@ -1,0 +1,15 @@
+{
+  "Index" : 118,
+  "Name" : "Zombies in MineralMine",
+  "Group" : "TaoVillage",
+  "FileName" : "118",
+  "RequiredMinLevel" : 27,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 117,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to CaveGuide in TaoVillage once the threat has been reduced.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

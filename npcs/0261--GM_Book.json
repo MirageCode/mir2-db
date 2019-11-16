@@ -1,0 +1,25 @@
+{
+  "Index" : 261,
+  "FileName" : "GM/GM-Book",
+  "Name" : "GM_Book",
+  "MapIndex" : 384,
+  "Location" : {
+    "X" : 91,
+    "Y" : 99
+  },
+  "Rate" : 100,
+  "Image" : 2,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 952,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

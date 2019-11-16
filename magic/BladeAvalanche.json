@@ -1,0 +1,22 @@
+{
+  "Name" : "BladeAvalanche",
+  "Spell" : "BladeAvalanche",
+  "BaseCost" : 14,
+  "LevelCost" : 4,
+  "Icon" : 71,
+  "Level1" : 38,
+  "Level2" : 41,
+  "Level3" : 43,
+  "Need1" : 5000,
+  "Need2" : 8000,
+  "Need3" : 12000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.40000000596046448,
+  "Range" : 9
+}

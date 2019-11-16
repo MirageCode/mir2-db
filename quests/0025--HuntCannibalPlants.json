@@ -1,0 +1,15 @@
+{
+  "Index" : 25,
+  "Name" : "Hunt CannibalPlants",
+  "Group" : "WoomyonWoods",
+  "FileName" : "25",
+  "RequiredMinLevel" : 7,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 24,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MirGuide Peter in BichonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

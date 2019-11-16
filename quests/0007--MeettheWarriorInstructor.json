@@ -1,0 +1,15 @@
+{
+  "Index" : 7,
+  "Name" : "Meet the Warrior Instructor",
+  "Group" : "BichonProvince",
+  "FileName" : "7",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 1,
+  "Type" : 0,
+  "GotoMessage" : "Speak to Master_Wa at 110:317",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

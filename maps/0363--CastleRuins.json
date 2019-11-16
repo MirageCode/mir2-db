@@ -1,0 +1,183 @@
+{
+  "Index" : 363,
+  "FileName" : "NAMMAN2",
+  "Title" : "CastleRuins",
+  "MiniMap" : 296,
+  "BigMap" : 298,
+  "Music" : 0,
+  "Light" : "Normal",
+  "MapDarkLight" : 0,
+  "MineIndex" : 0,
+  "NoTeleport" : false,
+  "NoReconnect" : false,
+  "NoRandom" : false,
+  "NoEscape" : false,
+  "NoRecall" : true,
+  "NoDrug" : false,
+  "NoPosition" : false,
+  "NoFight" : false,
+  "NoThrowItem" : false,
+  "NoDropPlayer" : false,
+  "NoDropMonster" : false,
+  "NoNames" : false,
+  "NoMount" : false,
+  "NeedBridle" : false,
+  "Fight" : false,
+  "NeedHole" : false,
+  "Fire" : false,
+  "Lightning" : false,
+  "NoTownTeleport" : false,
+  "NoReincarnation" : false,
+  "NoReconnectMap" : "",
+  "FireDamage" : 0,
+  "LightningDamage" : 0,
+  "SafeZones" : [],
+  "Movements" : [{
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 67,
+        "Y" : 195
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 66,
+        "Y" : 196
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 65,
+        "Y" : 197
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 64,
+        "Y" : 198
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 63,
+        "Y" : 199
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 64,
+        "Y" : 200
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 65,
+        "Y" : 199
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 66,
+        "Y" : 198
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 67,
+        "Y" : 197
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 68,
+        "Y" : 196
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }, {
+      "MapIndex" : 362,
+      "Source" : {
+        "X" : 69,
+        "Y" : 195
+      },
+      "Destination" : {
+        "X" : 761,
+        "Y" : 725
+      },
+      "NeedHole" : false,
+      "NeedMove" : false,
+      "ConquestIndex" : 0
+    }],
+  "Respawns" : [],
+  "NPCs" : [],
+  "MineZones" : [],
+  "ActiveCoords" : []
+}

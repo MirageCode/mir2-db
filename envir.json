@@ -1,0 +1,17 @@
+{
+  "MapIndex" : 386,
+  "MonsterIndex" : 506,
+  "NPCIndex" : 293,
+  "QuestIndex" : 157,
+  "GameshopIndex" : 106,
+  "ConquestIndex" : 0,
+  "RespawnIndex" : 5931,
+  "RespawnTick" : {
+    "BaseSpawnRate" : 20,
+    "CurrentTickcounter" : NumberLong(0),
+    "Respawn" : [{
+        "UserCount" : 0,
+        "DelayLoss" : 1.0
+      }]
+  }
+}

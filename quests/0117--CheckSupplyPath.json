@@ -1,0 +1,15 @@
+{
+  "Index" : 117,
+  "Name" : "Check Supply Path",
+  "Group" : "BichonProvince",
+  "FileName" : "117",
+  "RequiredMinLevel" : 27,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Speak with CaveGuide.",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

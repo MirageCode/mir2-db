@@ -1,0 +1,15 @@
+{
+  "Index" : 75,
+  "Name" : "Wipe Out",
+  "Group" : "SerpentValley",
+  "FileName" : "75",
+  "RequiredMinLevel" : 20,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to Chandler in SerpentValley",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

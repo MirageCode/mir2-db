@@ -1,0 +1,15 @@
+{
+  "Index" : 98,
+  "Name" : "Monster Hunt in Wooma",
+  "Group" : "WoomyonWoods",
+  "FileName" : "98",
+  "RequiredMinLevel" : 23,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 97,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to SubjugationLead in WoomyonWoods",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

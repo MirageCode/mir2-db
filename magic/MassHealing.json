@@ -1,0 +1,22 @@
+{
+  "Name" : "MassHealing",
+  "Spell" : "MassHealing",
+  "BaseCost" : 28,
+  "LevelCost" : 3,
+  "Icon" : 28,
+  "Level1" : 31,
+  "Level2" : 33,
+  "Level3" : 36,
+  "Need1" : 2000,
+  "Need2" : 4000,
+  "Need3" : 8000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 4,
+  "PowerBonus" : 0,
+  "MPowerBase" : 10,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

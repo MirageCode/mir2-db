@@ -1,0 +1,15 @@
+{
+  "Index" : 13,
+  "Name" : "Meet the Taoist Instructor",
+  "Group" : "BichonProvince",
+  "FileName" : "13",
+  "RequiredMinLevel" : 4,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 4,
+  "Type" : 0,
+  "GotoMessage" : "Search for the HighPriest Last seen at 546:559",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

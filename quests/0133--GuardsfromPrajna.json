@@ -1,0 +1,15 @@
+{
+  "Index" : 133,
+  "Name" : "Guards from Prajna",
+  "Group" : "PrajnaIsland",
+  "FileName" : "133",
+  "RequiredMinLevel" : 36,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 132,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to the VillageChief in PrajnaIsland",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

@@ -1,0 +1,15 @@
+{
+  "Index" : 101,
+  "Name" : "Boss Mob of Woomyon",
+  "Group" : "WoomyonWoods",
+  "FileName" : "101",
+  "RequiredMinLevel" : 23,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MasterShok 312:73",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

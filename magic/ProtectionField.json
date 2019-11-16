@@ -1,0 +1,22 @@
+{
+  "Name" : "ProtectionField",
+  "Spell" : "ProtectionField",
+  "BaseCost" : 23,
+  "LevelCost" : 6,
+  "Icon" : 50,
+  "Level1" : 39,
+  "Level2" : 42,
+  "Level3" : 45,
+  "Need1" : 6000,
+  "Need2" : 12000,
+  "Need3" : 18000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

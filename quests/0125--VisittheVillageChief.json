@@ -1,0 +1,15 @@
+{
+  "Index" : 125,
+  "Name" : "Visit the VillageChief",
+  "Group" : "PrajnaIsland",
+  "FileName" : "125",
+  "RequiredMinLevel" : 31,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 0,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel up the Stairs and speak with the VillageChief",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

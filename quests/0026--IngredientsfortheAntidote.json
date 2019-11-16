@@ -1,0 +1,15 @@
+{
+  "Index" : 26,
+  "Name" : "Ingredients for the Antidote",
+  "Group" : "BichonProvince",
+  "FileName" : "26",
+  "RequiredMinLevel" : 9,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 25,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Return to MirGuide Peter in BichonWall",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}

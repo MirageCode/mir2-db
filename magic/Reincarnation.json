@@ -1,0 +1,22 @@
+{
+  "Name" : "Reincarnation",
+  "Spell" : "Reincarnation",
+  "BaseCost" : 125,
+  "LevelCost" : 17,
+  "Icon" : 53,
+  "Level1" : 37,
+  "Level2" : 39,
+  "Level3" : 41,
+  "Need1" : 2000,
+  "Need2" : 6000,
+  "Need3" : 10000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

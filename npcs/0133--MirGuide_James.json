@@ -1,0 +1,25 @@
+{
+  "Index" : 133,
+  "FileName" : "SerpentValley/Village/MirGuide-2",
+  "Name" : "MirGuide_James",
+  "MapIndex" : 144,
+  "Location" : {
+    "X" : 505,
+    "Y" : 483
+  },
+  "Rate" : 100,
+  "Image" : 18,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

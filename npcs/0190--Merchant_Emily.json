@@ -1,0 +1,25 @@
+{
+  "Index" : 190,
+  "FileName" : "PrajnaIsland/8Piac",
+  "Name" : "Merchant_Emily",
+  "MapIndex" : 289,
+  "Location" : {
+    "X" : 154,
+    "Y" : 338
+  },
+  "Rate" : 100,
+  "Image" : 12,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

@@ -1,0 +1,22 @@
+{
+  "Name" : "Plague",
+  "Spell" : "Plague",
+  "BaseCost" : 20,
+  "LevelCost" : 5,
+  "Icon" : 74,
+  "Level1" : 42,
+  "Level2" : 44,
+  "Level3" : 47,
+  "Need1" : 5000,
+  "Need2" : 9000,
+  "Need3" : 13000,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

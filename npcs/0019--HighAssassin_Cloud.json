@@ -1,0 +1,25 @@
+{
+  "Index" : 19,
+  "FileName" : "BichonProvince/Cloud-0",
+  "Name" : "HighAssassin_Cloud",
+  "MapIndex" : 1,
+  "Location" : {
+    "X" : 101,
+    "Y" : 411
+  },
+  "Rate" : 100,
+  "Image" : 91,
+  "TimeVisible" : false,
+  "HourStart" : 0,
+  "MinuteStart" : 0,
+  "HourEnd" : 0,
+  "MinuteEnd" : 1,
+  "MinLev" : 0,
+  "MaxLev" : 0,
+  "DayofWeek" : "",
+  "ClassRequired" : "",
+  "FlagNeeded" : 0,
+  "Conquest" : 0,
+  "CollectQuestIndexes" : [],
+  "FinishQuestIndexes" : []
+}

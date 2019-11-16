@@ -1,0 +1,22 @@
+{
+  "Name" : "EnergyRepulsor",
+  "Spell" : "EnergyRepulsor",
+  "BaseCost" : 2,
+  "LevelCost" : 2,
+  "Icon" : 36,
+  "Level1" : 27,
+  "Level2" : 29,
+  "Level3" : 31,
+  "Need1" : 1800,
+  "Need2" : 2400,
+  "Need3" : 3200,
+  "DelayBase" : 1800,
+  "DelayReduction" : 0,
+  "PowerBase" : 0,
+  "PowerBonus" : 0,
+  "MPowerBase" : 0,
+  "MPowerBonus" : 0,
+  "MultiplierBase" : 1.0,
+  "MultiplierBonus" : 0.0,
+  "Range" : 9
+}

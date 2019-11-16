@@ -1,0 +1,15 @@
+{
+  "Index" : 119,
+  "Name" : "Message to BichonExaminer",
+  "Group" : "TaoVillage",
+  "FileName" : "119",
+  "RequiredMinLevel" : 27,
+  "RequiredMaxLevel" : 255,
+  "RequiredQuest" : 118,
+  "RequiredClass" : 31,
+  "Type" : 0,
+  "GotoMessage" : "Travel to BichonWall and talk to BichonExaminer 341:258",
+  "KillMessage" : "",
+  "ItemMessage" : "",
+  "FlagMessage" : ""
+}
