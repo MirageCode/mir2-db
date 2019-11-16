@@ -28,7 +28,7 @@
   "Lightning" : false,
   "NoTownTeleport" : false,
   "NoReincarnation" : false,
-  "NoReconnectMap" : "D501",
+  "NoReconnectMap" : "d501",
   "FireDamage" : 0,
   "LightningDamage" : 0,
   "SafeZones" : [],

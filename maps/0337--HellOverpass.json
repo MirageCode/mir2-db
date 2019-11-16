@@ -1,6 +1,6 @@
 {
   "Index" : 337,
-  "FileName" : "HELL03",
+  "FileName" : "hell03",
   "Title" : "HellOverpass",
   "MiniMap" : 249,
   "BigMap" : 0,
@@ -28,7 +28,7 @@
   "Lightning" : false,
   "NoTownTeleport" : false,
   "NoReincarnation" : false,
-  "NoReconnectMap" : "HELL00",
+  "NoReconnectMap" : "hell00",
   "FireDamage" : 100,
   "LightningDamage" : 0,
   "SafeZones" : [],

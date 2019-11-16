@@ -1,6 +1,6 @@
 {
   "Index" : 97,
-  "FileName" : "D2013",
+  "FileName" : "d2013",
   "Title" : "DarkDevilPalace",
   "MiniMap" : 134,
   "BigMap" : 0,
@@ -28,7 +28,7 @@
   "Lightning" : false,
   "NoTownTeleport" : false,
   "NoReincarnation" : false,
-  "NoReconnectMap" : "D2001",
+  "NoReconnectMap" : "d2001",
   "FireDamage" : 0,
   "LightningDamage" : 0,
   "SafeZones" : [],

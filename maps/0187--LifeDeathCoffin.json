@@ -1,6 +1,6 @@
 {
   "Index" : 187,
-  "FileName" : "D606",
+  "FileName" : "d606",
   "Title" : "LifeDeathCoffin",
   "MiniMap" : 31,
   "BigMap" : 0,
@@ -28,7 +28,7 @@
   "Lightning" : false,
   "NoTownTeleport" : false,
   "NoReincarnation" : false,
-  "NoReconnectMap" : "D602",
+  "NoReconnectMap" : "d602",
   "FireDamage" : 0,
   "LightningDamage" : 0,
   "SafeZones" : [],
